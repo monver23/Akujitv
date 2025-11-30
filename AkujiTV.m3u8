@@ -154,9 +154,10 @@ https://converse.nathcreqtives.com/1243/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=3c9d72e8564ab03fd125487bc6f1e925:14938e6c1cf34100a8494f041f2316a3
 https://sr-live-weigel1.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/metv_nr_rt/4c6a059bbc8441778f2a09259cded4a7/index.mpd
 
-#EXTINF:-1 tvg-id="sony pix hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="",SONY PIX HD
+#EXTINF:-1 tvg-id="sony one thriller hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png" group-title="",SONY ONE THRILLER HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://topsports.watch/sonyliv/stream.php?id=sony-pix-hd&amp;amp;format=.m3u8
+#KODIPROP:inputstream.adaptive.license_key=a948cce6cb93c4b9d648c9ada274d246:783e9e314d375f27cade69595fb94bca
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qbnukt8csn/out/v1/90f1b14e4b534193b81e0c263ee7810b/cenc.mpd
 
 #EXTINF:-1 tvg-id="hbo hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="",HBO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
