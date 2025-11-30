@@ -442,6 +442,11 @@ https://7pal.short.gy/sptsnet1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://7pal.short.gy/sptsnet360
 
+#EXTINF:-1 tvg-id="unifi sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="",UNIFI SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
 #EXTINF:-1 tvg-id="top rank classics" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6QuSpFMHgRbYq6tbh3xotXypiIoX9R_gJiA&amp;amp;s" group-title="",TOP RANK CLASSICS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://live-manifest.production-public.tubi.io/live/2a18fa03-db06-4f39-96c7-1751a3857698/playlist.m3u8
