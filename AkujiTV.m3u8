@@ -237,6 +237,11 @@ https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m
 #KODIPROP:inputstream.adaptive.license_key=043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
 https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(usa-east)/master.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/G.../WickedTuna_Logo_White_16x9._SL170_FMpng_.png" group-title="Outdoor & Adventure", Wicked Tuna
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3db6cfb75585bc8749528dc3414c7ab:d9018dd0a359f5155592424c73174363
+https://otte.live.fly.ww.aiv-cdn.ne.../25195582ea114394a6094b420fe18ac1/cenc-sd.mpd
+
 #EXTINF:-1 tvg-id="xtremejobs fhd" tvg-logo="https://images.fanart.tv/bigpreview/extreme-job-5e359c2d9da64.png" group-title="",EXTREME JOBS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bdcce91abdc8c92d287803f7275dddb:3e7c495f3f5d0bf87eb00d4575d613a3
