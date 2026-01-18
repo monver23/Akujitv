@@ -202,6 +202,9 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/250px-HBO_Drama_Logo.svg.png" group-title="",HBO DRAMA
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/2515.ts
+
 #EXTINF:-1 tvg-id="hbo hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="",HBO HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
@@ -507,14 +510,23 @@ https://abm5x5xaaaaaaaamnqoji7bfgac34.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live
 #KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master.mpd
 
-#EXTINF:-1 tvg-id="sportnet one" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Sportsnet_One_2011.svg/2560px-Sportsnet_One_2011.svg.png" group-title="",SPORTNET ONE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://7pal.short.gy/sptsnet1
+#EXTINF:-1 tvg-id="119324" tvg-name="UHD: Sky Sports 1 4K" tvg-logo="https://ctdpl.co.in/wp-content/uploads/2019/02/4k-uhd-logo-png.png" group-title="",UHD: Sky Sports 1 4K
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/119324.ts
 
-#EXTINF:-1 tvg-id="sportnet 360" tvg-logo="https://e7.pngegg.com/pngimages/481/822/png-clipart-sportsnet-360-sportsnet-world-bell-mts-television-channel-sn-text-logo.png" group-title="",SPORTNET 360
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://7pal.short.gy/sptsnet360
+#EXTINF:-1 tvg-id="119325" tvg-name="UHD: Sky Sports 2 4K" tvg-logo="https://ctdpl.co.in/wp-content/uploads/2019/02/4k-uhd-logo-png.png" group-title="",UHD: Sky Sports 2 4K
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/119325.ts
 
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UHD: Sky Sports F1 4K" tvg-logo="https://ctdpl.co.in/wp-content/uploads/2019/02/4k-uhd-logo-png.png" group-title="",UHD: Sky Sports F1 4K
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/119326.ts
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UHD: Sky Sports Main Event 4K" tvg-logo="https://ctdpl.co.in/wp-content/uploads/2019/02/4k-uhd-logo-png.png" group-title="",UHD: Sky Sports Main Event 4K
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/119327.ts
+
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="UHD: Sportsnet 4K" tvg-logo="https://ctdpl.co.in/wp-content/uploads/2019/02/4k-uhd-logo-png.png" group-title="",UHD: Sportsnet 4K
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/119328.ts
+
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="UHD: Sportsnet One 4K" tvg-logo="https://ctdpl.co.in/wp-content/uploads/2019/02/4k-uhd-logo-png.png" group-title="",UHD: Sportsnet One 4K
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/119329.ts
 
 #EXTINF:-1 tvg-id="top rank classics" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6QuSpFMHgRbYq6tbh3xotXypiIoX9R_gJiA&amp;amp;s" group-title="",TOP RANK CLASSICS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
