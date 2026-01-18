@@ -232,6 +232,33 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="SKY CINEMA ACTION | VIP" tvg-logo="http://primestreamstv.com/logos/SKY%20ACTION.png" group-title="",SKY CINEMA ACTION | VIP
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98800.ts
+
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="SKY CINEMA ANIMATION | VIP" tvg-logo="http://primestreamstv.com/logos/Sky.Cinema.Animation.2.png" group-title="",SKY CINEMA ANIMATION | VIP
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/110745.ts
+
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="SKY CINEMA COMEDY | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Comedy.png" group-title="",SKY CINEMA COMEDY | VIP
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98799.ts
+
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="SKY CINEMA DRAMA | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Drama.png" group-title="",SKY CINEMA DRAMA | VIP
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98797.ts
+
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="SKY CINEMA FAMILY | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Family.png" group-title="",SKY CINEMA FAMILY | VIP
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98796.ts
+
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="SKY CINEMA GREATS | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Greats.png" group-title="",SKY CINEMA GREATS | VIP
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98795.ts
+
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="SKY CINEMA HITS | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Cinema%20Hits(1).png" group-title="",SKY CINEMA HITS | VIP
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98794.ts
+
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="SKY CINEMA PREMIER | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Premiere.png" group-title="",SKY CINEMA PREMIER | VIP
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98793.ts
+
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="SKY CINEMA SCI-FI HORROR | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Movies%20Sci-Fi%20.png" group-title="",SKY CINEMA SCI-FI HORROR | VIP
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98792.ts
+
 #EXTINF:-1 tvg-id="usa network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/2560px-USA_Network_2025_logo.svg.png" group-title="",USA NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
