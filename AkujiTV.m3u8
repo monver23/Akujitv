@@ -320,6 +320,11 @@ https://amg00090-blueantllc-hanuttvuk-lggb-b4pxn.amagi.tv/playlist/amg00090-blue
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png" group-title="" ,Disney Channel
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
 #EXTINF:-1 tvg-id="metv toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/1200px-MeTV_Toons.png" group-title="",METV TOONS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -471,10 +476,6 @@ https://7pal.short.gy/sptsnet1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://7pal.short.gy/sptsnet360
 
-#EXTINF:-1 tvg-id="unifi sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="",UNIFI SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-id="top rank classics" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6QuSpFMHgRbYq6tbh3xotXypiIoX9R_gJiA&amp;amp;s" group-title="",TOP RANK CLASSICS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -484,10 +485,6 @@ https://live-manifest.production-public.tubi.io/live/2a18fa03-db06-4f39-96c7-175
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://7pal.short.gy/zigosfhd
 
-#EXTINF:-1 tvg-id="strongman champions network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Strongman_Champions_League_%28logo%29.png" group-title="",STRONGMAN CHAMPIONS NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://f55973c7fde84bc997efecb5881ae365.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_StrongmanChampionsLeague/74ab4308-2595-49d1-bdc2-f118edaf03aa/4.m3u8
 
 #EXTINF:-1 tvg-id="dazn ringside" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/dazn_ringside_black.png" group-title="",DAZN RINGSIDE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -584,9 +581,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/o
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
-#EXTINF:-1 tvg-id="m+ la liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LaLiga_TV_Por_M%2B_Logo.png" group-title="",M+ LA LIGA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://7pal.short.gy/mplusuhd
 
 #EXTINF:-1 tvg-id="ufc tv" tvg-logo="https://lh5.googleusercontent.com/proxy/pKOXa02YLURXb-JXCo41NwFSp19DOCyDzwk9-5N2UbxLJfxkIOTgorh4zkze9E8jXc-8whenX6ZsgCu70EVNjga1n6kcMLbcV86JNil2iR0qaA" group-title="",UFC TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -615,6 +609,11 @@ https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="premier football" tvg-logo="https://cms.cignal.tv/Upload/Images/Prem-Football-Thin-Solid-Thumbnail.jpg" group-title="",PREMIER FOOTBALL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg19223-amg19223c5-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c5-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no reservations" tvg-logo="https://image.tmdb.org/t/p/original/plqxH48TnvJUVX7PGf91YynOdfc.png" group-title="",No Reservations
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=67fcba8e2a1979d8e0753f1fb2bd1e10:cfcdb210d5b634e910f201117adb58b3
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/jylbletxz4/out/v1/b4c3ecda4d944c4598f1714d1f9bc856/cenc-sd.mpd
 
 #EXTINF:-1 tvg-id="river monster" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLWjLgV19fWlrjhOZvtXIN8IqfwWV12U_J6pTHTu8hA&amp;amp;s=10" group-title="",RIVER MONSTER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
