@@ -320,10 +320,6 @@ https://amg00090-blueantllc-hanuttvuk-lggb-b4pxn.amagi.tv/playlist/amg00090-blue
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="wwe" tvg-logo="https://i.imgur.com/PnXi655.png" group-title="",WWE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 #EXTINF:-1 tvg-id="metv toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/1200px-MeTV_Toons.png" group-title="",METV TOONS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -432,15 +428,15 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 #KODIPROP:inputstream.adaptive.license_key=75508caa27239cd34ca45ee862f1bbf2:d38f9f2b690bad3fcc838013242cc5e4
 https://ac-003.live.p7s1video.net/4a37da02/t_003/dazn-rise-hd/cenc-default.mpd
 
-#EXTINF:-1 tvg-id="dazn unbeaten" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=5qkyu3bjz5em1ep6gpw25876j_image-header_pRow_1711552796000&amp;quality=70" group-title="",DAZN UNBEATEN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-dash-dazn/32671e52-5768-4cb1-8e90-659445611d00/stream.mpd
-
 #EXTINF:-1 tvg-id="dazn combat" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/23/a2/dazn-combat-poster_9t52rjpt6dlp16lr1mfxg8vt6.jpg" group-title="",DAZN COMBAT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
 https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fightbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/FightBox_logo.webp/800px-FightBox_logo.webp.png" group-title="",FIGHTBOX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4ebbf11f2604527b77c9482dc35ea0a:40b7e96cdaed43d76d7cdbdfc4011dd9
+https://neacdnpop3-edge02.aws.playco.com/live/eds/FightBox/DASH/FightBox.mpd
 
 #EXTINF:-1 tvg-id="nba tv philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png" group-title="",NBA TV PHILIPPINES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
