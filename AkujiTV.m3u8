@@ -265,6 +265,9 @@ http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98791.ts
 #EXTINF:-1 tvg-id="skythriller.uk" tvg-name="SKY CINEMA THRILLER | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Thriller.png" group-title="",SKY CINEMA THRILLER | VIP
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98790.ts
 
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="http://primestreamstv.com/logos/Showtime%202%20East.png" group-title="",SHOWTIME 2
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/95922.ts
+
 #EXTINF:-1 tvg-id="usa network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/2560px-USA_Network_2025_logo.svg.png" group-title="",USA NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
