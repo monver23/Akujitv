@@ -149,6 +149,9 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1243/manifest.mpd
 
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC AMERICA" tvg-logo="http://primestreamstv.com/logos/BBC%20America.png" group-title="",BBC AMERICA
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/1329.ts
+
 #EXTINF:-1 tvg-id="metv hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_mZ5fITYpuc5HQu85FHh3tZXiXly8vG_FzBBvwsZISQ&amp;amp;s=10" group-title="",METV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c9d72e8564ab03fd125487bc6f1e925:14938e6c1cf34100a8494f041f2316a3
