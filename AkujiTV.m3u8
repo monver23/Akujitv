@@ -655,6 +655,9 @@ https://amg19223-amg19223c5-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #KODIPROP:inputstream.adaptive.license_key=67fcba8e2a1979d8e0753f1fb2bd1e10:cfcdb210d5b634e910f201117adb58b3
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/jylbletxz4/out/v1/b4c3ecda4d944c4598f1714d1f9bc856/cenc-sd.mpd
 
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="DISCOVERY TURBO" tvg-logo="http://primestreamstv.com/logos/Discovery%20Turbo.png" group-title="",DISCOVERY TURBO
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/1692.ts
+
 #EXTINF:-1 tvg-id="river monster" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLWjLgV19fWlrjhOZvtXIN8IqfwWV12U_J6pTHTu8hA&amp;amp;s=10" group-title="",RIVER MONSTER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
