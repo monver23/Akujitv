@@ -401,6 +401,9 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL NETWORK" tvg-logo="http://primestreamstv.com/logos/NFL.png" group-title="",NFL NETWORK
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/58790.ts
 
+#EXTINF:-1 tvg-id="118638" tvg-name="PICKLEBALL TV" tvg-logo="https://pickleballtv.com/wp-content/uploads/2023/10/cropped-pbtv-300x71-1.png" group-title="",PICKLEBALL TV
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/118638.ts
+
 #EXTINF:-1 tvg-id="bien sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="",BIEN SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
