@@ -84,11 +84,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="1250" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723128953472.png" ,JEEPNEY TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1250/manifest.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/0/0b/Jeepney_TV_3D_Logo_2015.png/revision/latest?cb=20230326142526" group-title="Converge", Jeepney TV
+http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1870820485634&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6T45HYQ6YE3XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="heart of asia" tvg-logo="https://i.imgur.com/2L3JzLv.png" group-title="",Heart Of Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -204,6 +201,9 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
 
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/2048px-HBO_Movies_Logo.svg.png" group-title="",HBO MOVIES
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/95924.ts
+
 #EXTINF:-1 tvg-id="star movies select hd" tvg-logo="https://www.nicepng.com/png/full/213-2132991_star-movies-hd-logo.png" group-title="",STAR MOVIES SELECT HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
@@ -217,10 +217,6 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/HERSPHERE.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
 https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
-
-#EXTINF:-1 tvg-id="&amp;amp;flix" tvg-logo="https://images.seeklogo.com/logo-png/43/1/flix-hd-logo-png_seeklogo-432038.png" group-title="",&amp;amp;FLIX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
 #EXTINF:-1 tvg-id="skyaction.uk" tvg-name="SKY CINEMA ACTION | VIP" tvg-logo="http://primestreamstv.com/logos/SKY%20ACTION.png" group-title="",SKY CINEMA ACTION | VIP
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98800.ts
@@ -254,6 +250,9 @@ http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98791.ts
 
 #EXTINF:-1 tvg-id="skythriller.uk" tvg-name="SKY CINEMA THRILLER | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Thriller.png" group-title="",SKY CINEMA THRILLER | VIP
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98790.ts
+
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="SHOWTIME EXTREME" tvg-logo="http://primestreamstv.com/logos/Showtime%20Extreme%20East.png" group-title="",SHOWTIME EXTREME
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/95921.ts
 
 #EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="http://primestreamstv.com/logos/Showtime%202%20East.png" group-title="",SHOWTIME 2
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/95922.ts
@@ -442,18 +441,17 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/i
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://www.pngall.com/wp-content/uploads/13/ESPN-Logo-PNG-File.png" group-title="",ESPN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="espn.us" tvg-name="NCAAF 01: ESPN" tvg-logo="https://d2779tscntxxsw.cloudfront.net/64e67d79c6317.png" group-title="",ESPN
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/114072.ts
+
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="NCAAF 11: SEC NETWORK" tvg-logo="https://d2779tscntxxsw.cloudfront.net/64e67d79c6317.png" group-title="",SEC NETWORK
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/114082.ts
 
 #EXTINF:-1 tvg-id="fox sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2560px-Fox_Sports_1_logo.svg.png" group-title="",FOX SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
-#EXTINF:-1 tvg-id="fox sport nhl" tvg-logo="https://b.fssta.com/uploads/application/leagues/logos/NHL.vresize.350.350.medium.0.png" group-title="",FOX SPORT NHL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
 
 #EXTINF:-1 tvg-id="pga tour" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/PGA_Tour_logo.svg/939px-PGA_Tour_logo.svg.png" group-title="",PGA TOUR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -522,10 +520,6 @@ http://primestreams.tv:826/live/Chine611/DEht5fmfT2/119329.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://live-manifest.production-public.tubi.io/live/2a18fa03-db06-4f39-96c7-1751a3857698/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ziggo sport fhd" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="",ZIGGO SPORT FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://7pal.short.gy/zigosfhd
-
 
 #EXTINF:-1 tvg-id="dazn ringside" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/dazn_ringside_black.png" group-title="",DAZN RINGSIDE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -565,22 +559,38 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd
 #KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="TNT SPORTS 3" tvg-logo="https://media.info/i/lf/0/1690027954/5712.png" group-title="",TNT SPORTS 3
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/89212.ts
+
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="TNT SPORTS 4" tvg-logo="https://media.info/i/lf/0/1690027975/1491.png" group-title="",TNT SPORTS 4
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/89211.ts
+
 #EXTINF:-1 tvg-id="tnt sports 3" tvg-logo="assets/images/streaming_media.png" group-title="",TNT ULTIMATE 4K
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/118491.ts
 
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="http://primestreamstv.com/logos/TSN%201.png" group-title="",TSN 1
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/1621.ts
+
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="http://primestreamstv.com/logos/TSN%202.png" group-title="",TSN 2
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/1622.ts
+
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="http://primestreamstv.com/logos/TSN%203.png" group-title="",TSN 3
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/1623.ts
+
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="http://primestreamstv.com/logos/TSN%204.png" group-title="",TSN 4
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/1624.ts
+
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="http://primestreamstv.com/logos/TSN%205.png" group-title="",TSN 5
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/1625.ts
 
 #EXTINF:-1 tvg-id="fox 11 los angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Fts-los-angeles-a.svg" group-title="",FOX 11 LOS ANGELES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://live-manifest.production-public.tubi.io/live/b54c2aa5-e243-480f-9384-bbf7bcbddaf1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="l:420,cw:1080,ch:1080,q:75,w:1080/p42pbcadwsbyuwxjg7f8ke.jpeg&quot; group-title=&quot;&quot;,msg sportzone" tvg-logo="https://cdn.mos.cms.futurecdn.net/v2/t:0,l:420,cw:1080,ch:1080,q:75,w:1080/p42PbCAdwsBYUwXJg7f8Ke.jpeg" group-title="",l:420,cw:1080,ch:1080,q:75,w:1080/p42PbCAdwsBYUwXJg7f8Ke.jpeg&quot; group-title=&quot;&quot;,MSG SPORTZONE
+#EXTINF:-1 tvg-id="l:420,cw:1080,ch:1080,q:75,w:1080/p42pbcadwsbyuwxjg7f8ke.jpeg&quot; group-title=&quot;&quot;,msg sportzone" tvg-logo="https://cdn.mos.cms.futurecdn.net/v2/t:0,l:420,cw:1080,ch:1080,q:75,w:1080/p42PbCAdwsBYUwXJg7f8Ke.jpeg" group-title="",MSG SPORTZONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://dce277e4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTVNHU3BvcnRzWm9uZV9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sky sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuMxicvx9e4auvmeGVJ4jry5Qea6sWrAiCUg&amp;amp;s" group-title="",SKY SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
-https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd
 
 #EXTINF:-1 tvg-id="blast sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTee1GhNLqWO8brIK9LK9xAZLBq9K9o6JnsOQ&amp;amp;s" group-title="",BLAST SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -606,10 +616,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
-#EXTINF:-1 tvg-id="premier league" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="",PREMIER LEAGUE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #EXTINF:-1 tvg-id="premier sports rugby" tvg-logo="https://i.logos-download.com/114158/30507-06b779b3ad7ad9d22fda17389326360f.png/Premier_Sports_Rugby_Logo_2025_stacked.png" group-title="",PREMIER SPORTS RUGBY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -638,17 +644,11 @@ https://live-manifest.production-public.tubi.io/live/fe9537a5-c7cc-4a74-83df-4c6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 
-#EXTINF:-1 tvg-id="paramount network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoB7v4vzrz-I9gz0mE3UI2E1EtZTIQ85RDJG46FV4z5A&amp;amp;s=10" group-title="",PARAMOUNT NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
 
 #EXTINF:-1 tvg-id="red bull tv" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-png-transparent.png" group-title="",RED BULL TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="premier football" tvg-logo="https://cms.cignal.tv/Upload/Images/Prem-Football-Thin-Solid-Thumbnail.jpg" group-title="",PREMIER FOOTBALL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://amg19223-amg19223c5-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c5-amgplt0351/playlist.m3u8
 
 #EXTINF:-1 tvg-id="no reservations" tvg-logo="https://image.tmdb.org/t/p/original/plqxH48TnvJUVX7PGf91YynOdfc.png" group-title="",No Reservations
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -703,10 +703,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungnz/pla
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="k+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="",K+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 
 #EXTINF:-1 tvg-id="crime investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="",CRIME INVESTIGATION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
