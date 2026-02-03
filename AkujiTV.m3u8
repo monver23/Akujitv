@@ -345,6 +345,11 @@ https://amg00090-blueantllc-hanuttvuk-lggb-b4pxn.amagi.tv/playlist/amg00090-blue
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 
+#EXTINF:-1 tvg-id="lord of the rings" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/rings_of_power._SL170_FMpng_.png" group-title="",Rings of Power
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9971b0e491c4a66e50be78347fc6491d:b9cd2638972febcc0de90a7200b0e5a3
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ssllbh2t66/out/v1/4ff0003040ad4ce590943d03d63466ae/cenc.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png" group-title="" ,Disney Channel
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
