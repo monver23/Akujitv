@@ -143,6 +143,12 @@ http://primestreams.tv:826/live/Chine611/DEht5fmfT2/1329.ts
 #KODIPROP:inputstream.adaptive.license_key=3c9d72e8564ab03fd125487bc6f1e925:14938e6c1cf34100a8494f041f2316a3
 https://sr-live-weigel1.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/metv_nr_rt/4c6a059bbc8441778f2a09259cded4a7/index.mpd
 
+#EXTINF:-1 tvg-id="astro showcase" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png" group-title="",ASTRO SHOWCASE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=showcase
+
+
 #EXTINF:-1 tvg-id="sony one thriller hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png" group-title="",SONY ONE THRILLER HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a948cce6cb93c4b9d648c9ada274d246:783e9e314d375f27cade69595fb94bca
