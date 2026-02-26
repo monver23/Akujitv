@@ -416,6 +416,11 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL NETWORK" tvg-logo="http://primestreamstv.com/logos/NFL.png" group-title="",NFL NETWORK
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/58790.ts
 
+#EXTINF:-1 tvg-id="superbowl" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/StationLogoArt-SuperBowlChampions._SL170_FMpng_.png" group-title="",SUPERBOWL CHAMPIONS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ad0d4678d3e336e50658900a3b992a3:28cf6ca83a2612a50ee7573824c4329c
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oevunyu769/out/v1/af87c268ac4c429daa7b124216d07f4c/cenc.mpd
+
 #EXTINF:-1 tvg-id="118638" tvg-name="PICKLEBALL TV" tvg-logo="https://pickleballtv.com/wp-content/uploads/2023/10/cropped-pbtv-300x71-1.png" group-title="",PICKLEBALL TV
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/118638.ts
 
