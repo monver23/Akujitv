@@ -491,7 +491,7 @@ https://neacdnpop3-edge02.aws.playco.com/live/eds/FightBox/DASH/FightBox.mpd
 
 #EXTINF:-1 tvg-id="nba tv philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png" group-title="",NBA TV PHILIPPINES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
+#KODIPROP:inputstream.adaptive.license_key=d1f8a0c97b3d4e529a6f2c4b8d7e1f90:58ab331d14b66bf31aca4284e0a3e536
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF:-1 tvg-id="nba amazon" tvg-logo="https://thesportzplanet.com/wp-content/uploads/2024/04/NBA-AMAZON-PRIME.jpg" group-title="",NBA AMAZON
