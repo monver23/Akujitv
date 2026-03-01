@@ -586,11 +586,6 @@ https://live-manifest.production-public.tubi.io/live/b54c2aa5-e243-480f-9384-bbf
 https://dce277e4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTVNHU3BvcnRzWm9uZV9ITFM/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="blast sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTee1GhNLqWO8brIK9LK9xAZLBq9K9o6JnsOQ&amp;amp;s" group-title="",BLAST SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
-
 #EXTINF:-1 tvg-id="hbo boxing" tvg-logo="https://gam.onl/user/psx/logos/HBO%20Boxing%20(USA).png" group-title="",HBO BOXING
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
@@ -615,12 +610,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4751472d3ac45e95e44b5e75480e53de:5f989e3de354630ec7973980f129ed01
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd
-
-#EXTINF:-1 tvg-id="laliga tv" tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/7/4/1315874_laligatvlogo_144485.jpg" group-title="",LALIGA TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-
 
 #EXTINF:-1 tvg-id="ufc tv" tvg-logo="https://lh5.googleusercontent.com/proxy/pKOXa02YLURXb-JXCo41NwFSp19DOCyDzwk9-5N2UbxLJfxkIOTgorh4zkze9E8jXc-8whenX6ZsgCu70EVNjga1n6kcMLbcV86JNil2iR0qaA" group-title="",UFC TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
