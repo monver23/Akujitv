@@ -73,7 +73,8 @@ http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87H
 #EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="",ALL TV
 http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="",Kapamilya Channel HD
+http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="one ph" tvg-logo="https://i.imgur.com/U9QwJSE.png" group-title="",ONE PH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -98,10 +99,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/globaltrekker/default/inde
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mpd
 
-#EXTINF:-1 tvg-id="cinemo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="",CINEMO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
-https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="",Cinemo!
+http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="pbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="",PBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
