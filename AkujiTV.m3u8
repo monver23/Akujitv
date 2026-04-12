@@ -462,6 +462,9 @@ https://neacdnpop3-edge02.aws.playco.com/live/eds/FightBox/DASH/FightBox.mpd
 #KODIPROP:inputstream.adaptive.license_key=d1f8a0c97b3d4e529a6f2c4b8d7e1f90:58ab331d14b66bf31aca4284e0a3e536
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
+#EXTINF:-1 tvg-id="a3cine.us" tvg-name="USA: NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="",USA: NBA TV
+http://xxip9.top:8080/live/20DKn6/055490/20073.ts
+
 #EXTINF:-1 tvg-id="nbc sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/NBC_Sports_logo_2012.png" group-title="",NBC SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00459011b26524a673b0ced54cef0a8b:b31ded0e8a4cad5a36b6be06dae76f28
@@ -482,23 +485,7 @@ https://abm5x5xaaaaaaaamnqoji7bfgac34.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live
 #KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master.mpd
 
-#EXTINF:-1 tvg-id="119324" tvg-name="UHD: Sky Sports 1 4K" tvg-logo="https://ctdpl.co.in/wp-content/uploads/2019/02/4k-uhd-logo-png.png" group-title="",UHD: Sky Sports 1 4K
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/119324.ts
 
-#EXTINF:-1 tvg-id="119325" tvg-name="UHD: Sky Sports 2 4K" tvg-logo="https://ctdpl.co.in/wp-content/uploads/2019/02/4k-uhd-logo-png.png" group-title="",UHD: Sky Sports 2 4K
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/119325.ts
-
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UHD: Sky Sports F1 4K" tvg-logo="https://ctdpl.co.in/wp-content/uploads/2019/02/4k-uhd-logo-png.png" group-title="",UHD: Sky Sports F1 4K
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/119326.ts
-
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UHD: Sky Sports Main Event 4K" tvg-logo="https://ctdpl.co.in/wp-content/uploads/2019/02/4k-uhd-logo-png.png" group-title="",UHD: Sky Sports Main Event 4K
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/119327.ts
-
-#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="UHD: Sportsnet 4K" tvg-logo="https://ctdpl.co.in/wp-content/uploads/2019/02/4k-uhd-logo-png.png" group-title="",UHD: Sportsnet 4K
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/119328.ts
-
-#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="UHD: Sportsnet One 4K" tvg-logo="https://ctdpl.co.in/wp-content/uploads/2019/02/4k-uhd-logo-png.png" group-title="",UHD: Sportsnet One 4K
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/119329.ts
 
 #EXTINF:-1 tvg-id="top rank classics" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6QuSpFMHgRbYq6tbh3xotXypiIoX9R_gJiA&amp;amp;s" group-title="",TOP RANK CLASSICS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -524,6 +511,20 @@ https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
 #EXTINF:-1 tvg-id="astro football fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="",ASTRO FOOTBALL FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://7pal.short.gy/astross4
+
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US CBS Sports Network HD " tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="",US CBS Sports Network HD 
+http://xxip9.top:8080/live/20DKn6/055490/10454.ts
+
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US Fox Sports 1 " tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="",US Fox Sports 1 
+http://xxip9.top:8080/live/20DKn6/055490/1846.ts
+
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US Fox Sports 2" tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png" group-title="",US Fox Sports 2 
+http://xxip9.top:8080/live/20DKn6/055490/1847.ts
+
+#EXTINF:-1 tvg-id="tntpacific.us" tvg-name="US TNT (West) " group-title="",US TNT (West) 
+http://xxip9.top:8080/live/20DKn6/055490/46688.ts
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="US TNT East " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="",US TNT East 
+http://xxip9.top:8080/live/20DKn6/055490/10455.ts
 
 #EXTINF:-1 tvg-id="horizon sports" tvg-logo="https://i0.wp.com/www.horizonsports.com/wp-content/uploads/2018/06/logo-horizon_wellness-transp.png?fit=1467%2C549&amp;amp;ssl=1" group-title="",HORIZON SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -707,3 +708,53 @@ http://zerotwo.access.ly:2096/Kentynes/0176324859/815088
 #EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-logo="" tvg-name="USA: SPORTSNET LA LAKERS" group-title="",USA: SPORTSNET LA LAKERS
 http://zerotwo.access.ly:2096/Kentynes/0176324859/815076
 
+#EXTINF:-1 tvg-id="266847" tvg-name="USA PPV03: BKFC Fight Night: Pitolo vs. Coltrane (DAZN) @ 11:00 AM EDT" group-title="",USA PPV03: BKFC Fight Night: Pitolo vs. Coltrane (DAZN) @ 11:00 AM EDT
+http://xxip9.top:8080/live/20DKn6/055490/266847.ts
+#EXTINF:-1 tvg-id="266848" tvg-name="USA PPV05: TNA Rebellion (PPV App) @ 08:00 PM EDT" group-title="",USA PPV05: TNA Rebellion (PPV App) @ 08:00 PM EDT
+http://xxip9.top:8080/live/20DKn6/055490/266848.ts
+#EXTINF:-1 tvg-id="266849" tvg-name="USA PPV06: Millbridge Speedway (dirtvision) @ 05:30 PM EDT" group-title="",USA PPV06: Millbridge Speedway (dirtvision) @ 05:30 PM EDT
+http://xxip9.top:8080/live/20DKn6/055490/266849.ts
+#EXTINF:-1 tvg-id="266850" tvg-name="USA PPV07: Volusia Speedway Park (dirtvision) @ 06:00 PM EDT" group-title="",USA PPV07: Volusia Speedway Park (dirtvision) @ 06:00 PM EDT
+http://xxip9.top:8080/live/20DKn6/055490/266850.ts
+#EXTINF:-1 tvg-id="266851" tvg-name="USA PPV08: Farmer City Raceway (dirtvision) @ 06:15 PM EDT" group-title="",USA PPV08: Farmer City Raceway (dirtvision) @ 06:15 PM EDT
+http://xxip9.top:8080/live/20DKn6/055490/266851.ts
+#EXTINF:-1 tvg-id="266852" tvg-name="USA PPV09: I-55 Federated Auto Parts Raceway Park (dirtvision) @ 07:15 PM EDT" group-title="",USA PPV09: I-55 Federated Auto Parts Raceway Park (dirtvision) @ 07:15 PM EDT
+http://xxip9.top:8080/live/20DKn6/055490/266852.ts
+#EXTINF:-1 tvg-id="266853" tvg-name="USA PPV10: Salina Highbanks Speedway (dirtvision) @ 07:15 PM EDT" group-title="",USA PPV10: Salina Highbanks Speedway (dirtvision) @ 07:15 PM EDT
+http://xxip9.top:8080/live/20DKn6/055490/266853.ts
+#EXTINF:-1 tvg-id="266854" tvg-name="USA PPV11: USMTS Mitchell's Motorplex 4/11/26 (racindirt) @ 07:00 PM EDT" group-title="",USA PPV11: USMTS Mitchell's Motorplex 4/11/26 (racindirt) @ 07:00 PM EDT
+http://xxip9.top:8080/live/20DKn6/055490/266854.ts
+#EXTINF:-1 tvg-id="266855" tvg-name="USA PPV12: Vado Speedway Park 4/11/26 (racindirt) @ 09:00 PM EDT" group-title="",USA PPV12: Vado Speedway Park 4/11/26 (racindirt) @ 09:00 PM EDT
+http://xxip9.top:8080/live/20DKn6/055490/266855.ts
+#EXTINF:-1 tvg-id="266856" tvg-name="USA PPV13: wXw: We Love Wrestling 76 (fite tv) @ 01:00 PM EDT" group-title="",USA PPV13: wXw: We Love Wrestling 76 (fite tv) @ 01:00 PM EDT
+http://xxip9.top:8080/live/20DKn6/055490/266856.ts
+#EXTINF:-1 tvg-id="266857" tvg-name="USA PPV14: PFI 18: The Road to the Belt (fite tv) @ 06:00 PM EDT" group-title="",USA PPV14: PFI 18: The Road to the Belt (fite tv) @ 06:00 PM EDT
+http://xxip9.top:8080/live/20DKn6/055490/266857.ts
+#EXTINF:-1 tvg-id="266858" tvg-name="USA PPV15: Cage of Honor 96 (fite tv) @ 08:00 PM EDT" group-title="",USA PPV15: Cage of Honor 96 (fite tv) @ 08:00 PM EDT
+http://xxip9.top:8080/live/20DKn6/055490/266858.ts
+#EXTINF:-1 tvg-id="266859" tvg-name="USA PPV17: BKFC Fight Night Honolulu: Maki Pitolo vs Doug 'Coldred' Coltrane (fite tv) @ 11:00 PM EDT" group-title="",USA PPV17: BKFC Fight Night Honolulu: Maki Pitolo vs Doug 'Coldred' Coltrane (fite tv) @ 11:00 PM EDT
+http://xxip9.top:8080/live/20DKn6/055490/266859.ts
+#EXTINF:-1 tvg-id="266860" tvg-name="USA PPV18: Boxing: Tyson Fury vs Arslanbek Makhmudov @ 02:00 PM" group-title="",USA PPV18: Boxing: Tyson Fury vs Arslanbek Makhmudov @ 02:00 PM
+http://xxip9.top:8080/live/20DKn6/055490/266860.ts
+#EXTINF:-1 tvg-id="sportsnet.satellite.digital.ca" tvg-name="CA Sportsnet East (D) " group-title="",CA Sportsnet East (D) 
+http://xxip9.top:8080/live/20DKn6/055490/41836.ts
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="CA Sportsnet One (E)" tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="",CA Sportsnet One (E)
+http://xxip9.top:8080/live/20DKn6/055490/10247.ts
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 HD " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="",CA TSN 4 HD 
+http://xxip9.top:8080/live/20DKn6/055490/16130.ts
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="CA Sportsnet 360 HD " tvg-logo="https://images.radio.orange.com/radios/large_cfac_960_am_calgary_alberta.png" group-title="",CA Sportsnet 360 HD 
+http://xxip9.top:8080/live/20DKn6/055490/2219.ts
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA Sportsnet Ontario (FHD) " tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="",CA Sportsnet Ontario (FHD) 
+http://xxip9.top:8080/live/20DKn6/055490/11649.ts
+#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="CA Sportsnet Pacific (FHD) " tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="",CA Sportsnet Pacific (FHD) 
+http://xxip9.top:8080/live/20DKn6/055490/9860.ts
+#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="CA Sportsnet West (FHD)" tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="",CA Sportsnet West (FHD)
+http://xxip9.top:8080/live/20DKn6/055490/20975.ts
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="US ESPN SEC Network " group-title="Sports Fanatic's ",US ESPN SEC Network 
+http://xxip9.top:8080/live/20DKn6/055490/17608.ts
+
+#EXTINF:-1 tvg-id="spectrum.sportsnet.us" tvg-name="US Spectrum SportsNet LA Dodgers (HD) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="",US Spectrum SportsNet LA Dodgers (HD) 
+http://xxip9.top:8080/live/20DKn6/055490/31636.ts
+
+#EXTINF:-1 tvg-id="spectrum.sportsnet.us" tvg-name="US Spectrum SportsNet Lakers (FHD) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="",US Spectrum SportsNet Lakers (FHD) 
+http://xxip9.top:8080/live/20DKn6/055490/20946.ts
