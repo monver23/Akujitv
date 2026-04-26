@@ -544,6 +544,11 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/cllekigzzn/
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
+#EXTINF:-1 tvg-id="tnt sport 3" tvg-logo="assets/images/streaming_media.png" group-title="",TNT SPORT 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
 
 
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="http://primestreamstv.com/logos/TSN%201.png" group-title="",TSN 1
