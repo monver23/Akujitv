@@ -52,8 +52,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 
-#EXTINF:-1 tvg-id="kapatid hd" tvg-logo="https://i.imgur.com/U5L67WD.png" group-title="",KAPATID HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BUVWBm2.png" group-title="Cignal", Kapatid Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=045d103180f64562b1db7c932741c3ba:c3380548b9075c767a6ae2006ef4bff8
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kapatid_hd/default/index.mpd
 
@@ -74,10 +76,12 @@ http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87
 #KODIPROP:inputstream.adaptive.license_key=b1c7e9d24f8a4d6c9e337a2f1c5b8d60:8ff2e524cc1e028f2a4d4925e860c796
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="one sports hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="",ONE SPORTS HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Cignal", One Sports+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f00bd0122a8a4da1a49ea6c49f7098ad:a4079f3667ba4c2bcfdeb13e45a6e9c6
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/0/0b/Jeepney_TV_3D_Logo_2015.png/revision/latest?cb=20230326142526" group-title="", Jeepney TV
 http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1870820485634&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6T45HYQ6YE3XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -97,13 +101,15 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_animax_sd_new/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2560px-Logo_tvN.svg.png" group-title="",TVN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Cignal", tvN Movies Pinoy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="",Cinemo!
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png",Cinemo!
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:f06b6031a3604cc6708c14d83f1a1b27
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
 
@@ -207,38 +213,6 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/HERSPHERE.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
 https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
 
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="SKY CINEMA ACTION | VIP" tvg-logo="http://primestreamstv.com/logos/SKY%20ACTION.png" group-title="",SKY CINEMA ACTION | VIP
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98800.ts
-
-#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="SKY CINEMA ANIMATION | VIP" tvg-logo="http://primestreamstv.com/logos/Sky.Cinema.Animation.2.png" group-title="",SKY CINEMA ANIMATION | VIP
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/110745.ts
-
-#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="SKY CINEMA COMEDY | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Comedy.png" group-title="",SKY CINEMA COMEDY | VIP
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98799.ts
-
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="SKY CINEMA DRAMA | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Drama.png" group-title="",SKY CINEMA DRAMA | VIP
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98797.ts
-
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="SKY CINEMA FAMILY | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Family.png" group-title="",SKY CINEMA FAMILY | VIP
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98796.ts
-
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="SKY CINEMA GREATS | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Greats.png" group-title="",SKY CINEMA GREATS | VIP
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98795.ts
-
-#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="SKY CINEMA HITS | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Cinema%20Hits(1).png" group-title="",SKY CINEMA HITS | VIP
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98794.ts
-
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="SKY CINEMA PREMIER | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Premiere.png" group-title="",SKY CINEMA PREMIER | VIP
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98793.ts
-
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="SKY CINEMA SCI-FI HORROR | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Movies%20Sci-Fi%20.png" group-title="",SKY CINEMA SCI-FI HORROR | VIP
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98792.ts
-
-#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="SKY CINEMA SELECT | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Movies%20Select.png" group-title="",SKY CINEMA SELECT | VIP
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98791.ts
-
-#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="SKY CINEMA THRILLER | VIP" tvg-logo="http://primestreamstv.com/logos/Sky%20Thriller.png" group-title="",SKY CINEMA THRILLER | VIP
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/98790.ts
 
 #EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="SHOWTIME EXTREME" tvg-logo="http://primestreamstv.com/logos/Showtime%20Extreme%20East.png" group-title="",SHOWTIME EXTREME
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/95921.ts
