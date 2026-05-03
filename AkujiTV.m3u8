@@ -543,7 +543,8 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/5sxuux529k/
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-5-uk.png?raw=true" group-title="",TNT Sports 5 FHD
+http://inthezone.pro:80/Sofia/Sofia/640881
 
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="http://primestreamstv.com/logos/TSN%201.png" group-title="",TSN 1
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/1621.ts
@@ -754,5 +755,3 @@ http://xxip9.top:8080/live/20DKn6/055490/20946.ts
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4" tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4" tvg-chno="" tvg-name="beIN SPORTS XTRA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2bc78162-f4bb-4276-8df3-85c13133df3f/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png" group-title="",beIN SPORTS XTRA
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4/?X-Plex-Token=NEtrh4JxicM85z9DHyzX
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-5-uk.png?raw=true" group-title="",TNT Sports 5 FHD
-http://inthezone.pro:80/Sofia/Sofia/640881
