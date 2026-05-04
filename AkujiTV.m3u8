@@ -782,4 +782,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-vizious/playlist.m3u8
 
+#EXTINF:-1 tvg-id="318970" tvg-name="NETFLIX 01 (FHD) Events Only" group-title="" | UFC",NETFLIX 01 (FHD) Events Only
+http://xxip9.top:8080/live/109420665/109420665/318970.ts
 
+#EXTINF:-1 tvg-id="318971" tvg-name="NETFLIX 02 (HD) Events Only" group-title="" | UFC",NETFLIX 02 (HD) Events Only
+http://xxip9.top:8080/live/109420665/109420665/318971.ts
