@@ -372,6 +372,10 @@ https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9971b0e491c4a66e50be78347fc6491d:b9cd2638972febcc0de90a7200b0e5a3
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ssllbh2t66/out/v1/4ff0003040ad4ce590943d03d63466ae/cenc.mpd
 
+
+#EXTINF:-1 tvg-id="400000106" tvg-logo="https://canvas-lb.tubitv.com/opts/SImeAOgOma8YLQ==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjlAAQ==" group-title="",UFC
+https://live-manifest.production-public.tubi.io/live/dd6d627f-f0f8-48bb-b627-7f7c4fceec37/playlist.m3u8
+
 #EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL NETWORK" tvg-logo="http://primestreamstv.com/logos/NFL.png" group-title= "",NFL NETWORK
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/58790.ts
 
