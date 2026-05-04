@@ -29,7 +29,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/bbcworld_news_sd/default/i
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="",A2Z
 http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png", ANC
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png", ANC
 http://136.239.158.18:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoK2PIan60vhUUxnwtpVvgcytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001436&contentid=ch00000000000000001436&videoid=ch00000090990000001216&recommendtype=0&userid=1365005241451&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4U9VQT70SCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="bilyonario news channel" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77//0-16x9.jpg?width=412" group-title="",BILYONARIO NEWS CHANNEL
@@ -55,7 +55,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=045d103180f64562b1db7c932741c3ba:c3380548b9075c767a6ae2006ef4bff8
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kapatid_hd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Converge", GTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="", GTV
 http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="", GMA 7	
@@ -198,10 +198,10 @@ http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRBSrx-izryuMwLSrienCUG8
 #EXTINF:-1 tvg-id="transformer" tvg-logo="" group-title="",24/7 | WRESTLEMANIA
 http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctROVqUhtVYb1BzwBsS6dNf3s
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/2TeKCBK.png",National Geographic Channel
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://i.imgur.com/2TeKCBK.png",National Geographic Channel
 http://supersonictv.live:8080/611366/682256/22124
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9.png",National Geographic Wild
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9.png",National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
 
 #EXTINF:-1 tvg-id="discovery channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShny385Q5w27liN2LJql62rne-2BJ89kM6iQ&amp;amp;s" group-title="",DISCOVERY CHANNEL
@@ -646,7 +646,7 @@ http://xxip9.top:8080/live/20DKn6/055490/11649.ts
 http://xxip9.top:8080/live/20DKn6/055490/9860.ts
 #EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="CA Sportsnet West (FHD)" tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="",CA Sportsnet West (FHD)
 http://xxip9.top:8080/live/20DKn6/055490/20975.ts
-#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="US ESPN SEC Network " group-title="'s ",US ESPN SEC Network 
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="US ESPN SEC Network " group-title="'",US ESPN SEC Network 
 http://xxip9.top:8080/live/20DKn6/055490/17608.ts
 
 #EXTINF:-1 tvg-id="spectrum.sportsnet.us" tvg-name="US Spectrum SportsNet LA Dodgers (HD) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="",US Spectrum SportsNet LA Dodgers (HD) 
