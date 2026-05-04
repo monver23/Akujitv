@@ -121,19 +121,12 @@ https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="1243" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134009531.png" ,SOLAR FLIX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1243/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="", Solarflix
+http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1633620334084&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B91ZY82QQ8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC AMERICA" tvg-logo="http://primestreamstv.com/logos/BBC%20America.png" group-title="",BBC AMERICA
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/1329.ts
 
-#EXTINF:-1 tvg-id="metv hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_mZ5fITYpuc5HQu85FHh3tZXiXly8vG_FzBBvwsZISQ&amp;amp;s=10" group-title="",METV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3c9d72e8564ab03fd125487bc6f1e925:14938e6c1cf34100a8494f041f2316a3
-https://sr-live-weigel1.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/metv_nr_rt/4c6a059bbc8441778f2a09259cded4a7/index.mpd
 
 #EXTINF:-1 tvg-id="sony one thriller hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png" group-title="",SONY ONE THRILLER HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -193,49 +186,23 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6ns8qsqde/o
 #EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/2048px-HBO_Movies_Logo.svg.png" group-title="",HBO MOVIES
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/95924.ts
 
-#EXTINF:-1 tvg-id="star movies select hd" tvg-logo="https://www.nicepng.com/png/full/213-2132991_star-movies-hd-logo.png" group-title="",STAR MOVIES SELECT HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
+#EXTINF:-1 tvg-id="transporter" tvg-logo="" group-title="",24/7 | TRANSPORTER
+http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRIUfg0qHkzUKFod5BuJ7FYc
 
-#EXTINF:-1 tvg-id="hersphere by lionsgate" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/hersphere_logo_fubo_1920x1080_black.png" group-title="",HERSPHERE BY LIONSGATE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
-https://raw.githubusercontent.com/mystery75/m3u8/main/HERSPHERE.m3u8
+#EXTINF:-1 tvg-id="transformer" tvg-logo="" group-title="",24/7 | TRANSFORMERS
+http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRCn_d9JITcfCECiecaEpVxM
 
-#EXTINF:-1 tvg-id="miramax movies" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Miramax-Films-logo.png" group-title="",MIRAMAX MOVIES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
-https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
+#EXTINF:-1 tvg-id="transformer" tvg-logo="" group-title="",24/7 | FAST AND FURIOUS
+http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRBSrx-izryuMwLSrienCUG8
 
+#EXTINF:-1 tvg-id="transformer" tvg-logo="" group-title="",24/7 | WRESTLEMANIA
+http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctROVqUhtVYb1BzwBsS6dNf3s
 
-#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="SHOWTIME EXTREME" tvg-logo="http://primestreamstv.com/logos/Showtime%20Extreme%20East.png" group-title="",SHOWTIME EXTREME
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/95921.ts
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/2TeKCBK.png",National Geographic Channel
+http://supersonictv.live:8080/611366/682256/22124
 
-#EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="http://primestreamstv.com/logos/Showtime%202%20East.png" group-title="",SHOWTIME 2
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/95922.ts
-
-#EXTINF:-1 tvg-id="usa network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/2560px-USA_Network_2025_logo.svg.png" group-title="",USA NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
-https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(usa-east)/master.mpd
-
-#EXTINF:-1 tvg-id="xtremejobs fhd" tvg-logo="https://images.fanart.tv/bigpreview/extreme-job-5e359c2d9da64.png" group-title="",EXTREME JOBS FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bdcce91abdc8c92d287803f7275dddb:3e7c495f3f5d0bf87eb00d4575d613a3
-https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c9apdu0moz/out/v1/a78587c376204481aca7c6d0aa166c7e/cenc.mpd
-
-#EXTINF:-1 tvg-id="world fishing network" tvg-logo="https://img.favpng.com/25/1/10/world-fishing-network-television-angling-logo-png-favpng-9AbhfFbS284eupR6SHWbqNq1Y.jpg" group-title="",WORLD FISHING NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
-https://fl31.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="national geographic channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="",NATIONAL GEOGRAPHIC CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
-
-#EXTINF:-1 tvg-id="nat geo wild hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="",NAT GEO WILD HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9.png",National Geographic Wild
+http://supersonictv.live:8080/611366/682256/22125
 
 #EXTINF:-1 tvg-id="discovery channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShny385Q5w27liN2LJql62rne-2BJ89kM6iQ&amp;amp;s" group-title="",DISCOVERY CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -255,6 +222,106 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index
 #EXTINF:-1 tvg-id="history 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="",HISTORY 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://i.mjh.nz/.r/h2-fast.m3u8
+
+#EXTINF:-1 tvg-id="aniplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/1200px-Aniplus_logo.svg.png" group-title="",ANIPLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ani-one" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNm2mATpiUEbBBMlm_PL2ghzcyx1EqdZIL-g&amp;amp;s" group-title="",ANI-ONE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png" group-title="" ,Disney Channel
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+
+#EXTINF:-1 tvg-id="metv toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/1200px-MeTV_Toons.png" group-title="",METV TOONS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df9071d1a149fe61eef6e6b4c4922a12:56c69aae13a844b5a6b3820239e22deb
+https://sr-live-weigel1.akamaized.net/out/v1/48a208050eed4a9785e9d1a4a3f2e4f0/index.mpd
+
+
+#EXTINF:-1 tvg-id="crunchyroll" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crunchyroll_Logo.svg/1842px-Crunchyroll_Logo.svg.png" group-title="",CRUNCHYROLL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://a3c4ecbd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3J1bmNoeXJvbGxfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="anime x hidive" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2GliQcEnnp4pGTdSkHwVBMvwLoWLP5D2bA&amp;amp;s" group-title="",ANIME X HIDIVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://ec48e468.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQU5JTUV4SElESVZFX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cbeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/2560px-CBeebies.svg.png" group-title="",CBEEBIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
+
+#EXTINF:-1 tvg-id="cartoon network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="",CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
+
+#EXTINF:-1 tvg-id="zoo moo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1219px-ZooMoo_logo.svg.png" group-title="",ZOO MOO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="spotv hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1280px-SPOTV_logo.svg.png" group-title="",SPOTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+
+#EXTINF:-1 tvg-id="spotv 2 hd" tvg-logo="https://images.seeklogo.com/logo-png/41/2/spo-tv-2-logo-png_seeklogo-410832.png" group-title="",SPOTV 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="premier sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="",PREMIER SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8b595299fdf41c1a3481fddeb0b55e4:cd2b4ad0eb286239a4a022e6ca5fd007
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="uaap varsity channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Uaapvarsitychannel.png" group-title="",UAAP VARSITY CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="pba rush hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="",PBA RUSH HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7f1a9c36b2e4f8d9a441c5e7b2d8f60:fb83c86f600ab945e7e9afed8376eb1e
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="nba tv philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png" group-title="",NBA TV PHILIPPINES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1f8a0c97b3d4e529a6f2c4b8d7e1f90:58ab331d14b66bf31aca4284e0a3e536
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
+
+#EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV HD" tvg-logo="" group-title="",NBA TV HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/nba_tv_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="hersphere by lionsgate" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/hersphere_logo_fubo_1920x1080_black.png" group-title="",HERSPHERE BY LIONSGATE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
+https://raw.githubusercontent.com/mystery75/m3u8/main/HERSPHERE.m3u8
+
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="SHOWTIME EXTREME" tvg-logo="http://primestreamstv.com/logos/Showtime%20Extreme%20East.png" group-title="",SHOWTIME EXTREME
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/95921.ts
+
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="http://primestreamstv.com/logos/Showtime%202%20East.png" group-title="",SHOWTIME 2
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/95922.ts
+
+#EXTINF:-1 tvg-id="xtremejobs fhd" tvg-logo="https://images.fanart.tv/bigpreview/extreme-job-5e359c2d9da64.png" group-title="",EXTREME JOBS FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bdcce91abdc8c92d287803f7275dddb:3e7c495f3f5d0bf87eb00d4575d613a3
+https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c9apdu0moz/out/v1/a78587c376204481aca7c6d0aa166c7e/cenc.mpd
+
+#EXTINF:-1 tvg-id="world fishing network" tvg-logo="https://img.favpng.com/25/1/10/world-fishing-network-television-angling-logo-png-favpng-9AbhfFbS284eupR6SHWbqNq1Y.jpg" group-title="",WORLD FISHING NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
+https://fl31.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="masterchef" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp9W5DHVGde-U_AEZnS8CnpHsLRPt3PVOSIQ&amp;amp;s" group-title="",MASTERCHEF
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -305,59 +372,7 @@ https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9971b0e491c4a66e50be78347fc6491d:b9cd2638972febcc0de90a7200b0e5a3
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ssllbh2t66/out/v1/4ff0003040ad4ce590943d03d63466ae/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png" group-title="" ,Disney Channel
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
-
-#EXTINF:-1 tvg-id="metv toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/1200px-MeTV_Toons.png" group-title="",METV TOONS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df9071d1a149fe61eef6e6b4c4922a12:56c69aae13a844b5a6b3820239e22deb
-https://sr-live-weigel1.akamaized.net/out/v1/48a208050eed4a9785e9d1a4a3f2e4f0/index.mpd
-
-#EXTINF:-1 tvg-id="aniplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/1200px-Aniplus_logo.svg.png" group-title="",ANIPLUS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ani-one" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNm2mATpiUEbBBMlm_PL2ghzcyx1EqdZIL-g&amp;amp;s" group-title="",ANI-ONE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
-
-#EXTINF:-1 tvg-id="crunchyroll" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crunchyroll_Logo.svg/1842px-Crunchyroll_Logo.svg.png" group-title="",CRUNCHYROLL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://a3c4ecbd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3J1bmNoeXJvbGxfSExT/playlist.m3u8
-
-#EXTINF:-1 tvg-id="anime x hidive" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2GliQcEnnp4pGTdSkHwVBMvwLoWLP5D2bA&amp;amp;s" group-title="",ANIME X HIDIVE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://ec48e468.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQU5JTUV4SElESVZFX0hMUw/playlist.m3u8
-
-#EXTINF:-1 tvg-id="cbeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/2560px-CBeebies.svg.png" group-title="",CBEEBIES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
-
-#EXTINF:-1 tvg-id="cartoon network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="",CARTOON NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
-
-#EXTINF:-1 tvg-id="zoo moo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1219px-ZooMoo_logo.svg.png" group-title="",ZOO MOO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="spotv hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1280px-SPOTV_logo.svg.png" group-title="",SPOTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
-
-#EXTINF:-1 tvg-id="spotv 2 hd" tvg-logo="https://images.seeklogo.com/logo-png/41/2/spo-tv-2-logo-png_seeklogo-410832.png" group-title="",SPOTV 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL NETWORK" tvg-logo="http://primestreamstv.com/logos/NFL.png" group-title="",NFL NETWORK
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL NETWORK" tvg-logo="http://primestreamstv.com/logos/NFL.png" group-title= "",NFL NETWORK
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/58790.ts
 
 #EXTINF:-1 tvg-id="superbowl" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/StationLogoArt-SuperBowlChampions._SL170_FMpng_.png" group-title="",SUPERBOWL CHAMPIONS
@@ -396,21 +411,6 @@ https://wurlfifa.global.transmit.live/hls/68962aee6d5f7138484ade6a/v1/sysdata_s_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="premier sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="",PREMIER SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8b595299fdf41c1a3481fddeb0b55e4:cd2b4ad0eb286239a4a022e6ca5fd007
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd
-
-#EXTINF:-1 tvg-id="uaap varsity channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Uaapvarsitychannel.png" group-title="",UAAP VARSITY CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/index.mpd
-
-#EXTINF:-1 tvg-id="pba rush hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="",PBA RUSH HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7f1a9c36b2e4f8d9a441c5e7b2d8f60:fb83c86f600ab945e7e9afed8376eb1e
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
-
 #EXTINF:-1 tvg-id="espn.us" tvg-name="NCAAF 01: ESPN" tvg-logo="https://d2779tscntxxsw.cloudfront.net/64e67d79c6317.png" group-title="",ESPN
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/114072.ts
 
@@ -436,17 +436,6 @@ https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4ebbf11f2604527b77c9482dc35ea0a:40b7e96cdaed43d76d7cdbdfc4011dd9
 https://neacdnpop3-edge02.aws.playco.com/live/eds/FightBox/DASH/FightBox.mpd
-
-#EXTINF:-1 tvg-id="nba tv philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png" group-title="",NBA TV PHILIPPINES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1f8a0c97b3d4e529a6f2c4b8d7e1f90:58ab331d14b66bf31aca4284e0a3e536
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
-
-#EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV HD" tvg-logo="" group-title="",NBA TV HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
-https://bks400-tol-110.quieroxview.com.mx/bpk-tv/nba_tv_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="nbc sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/NBC_Sports_logo_2012.png" group-title="",NBC SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -563,7 +552,6 @@ https://live-manifest.production-public.tubi.io/live/b54c2aa5-e243-480f-9384-bbf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://dce277e4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTVNHU3BvcnRzWm9uZV9ITFM/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="hbo boxing" tvg-logo="https://gam.onl/user/psx/logos/HBO%20Boxing%20(USA).png" group-title="",HBO BOXING
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
@@ -609,85 +597,6 @@ https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="red bull tv" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-png-transparent.png" group-title="",RED BULL TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="no reservations" tvg-logo="https://image.tmdb.org/t/p/original/plqxH48TnvJUVX7PGf91YynOdfc.png" group-title="",No Reservations
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=67fcba8e2a1979d8e0753f1fb2bd1e10:cfcdb210d5b634e910f201117adb58b3
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/jylbletxz4/out/v1/b4c3ecda4d944c4598f1714d1f9bc856/cenc-sd.mpd
-
-#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="DISCOVERY TURBO" tvg-logo="http://primestreamstv.com/logos/Discovery%20Turbo.png" group-title="",DISCOVERY TURBO
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/1692.ts
-
-#EXTINF:-1 tvg-id="river monster" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLWjLgV19fWlrjhOZvtXIN8IqfwWV12U_J6pTHTu8hA&amp;amp;s=10" group-title="",RIVER MONSTER
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="france 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="",FRANCE 24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mythbusters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/MythBusters_logo.png" group-title="",MYTHBUSTERS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ghost channel" tvg-logo="https://images-platform.99static.com/Jx6gvRATB1SYznnUNmFr0OyhpyU=/386x124:1203x941/500x500/top/smart/99designs-contests-attachments/114/114915/attachment_114915164" group-title="",GHOST CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
-https://9485e5d3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dob3N0SU5UTF9ITFM/playlist.m3u8
-
-#EXTINF:-1 tvg-id="walking dead universe" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/twdu.png" group-title="",WALKING DEAD UNIVERSE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://4af795c331a141e19ee30918d8abc796.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG_TheWalkingDeadUniverse/playlist.m3u8
-
-#EXTINF:-1 tvg-id="gordon ramsay" tvg-logo="https://canvas-lb.tubitv.com/opts/Yd-DTmrsrFE8pQ==/0712ff05-9fca-4960-ab6f-47b369b4aee9/CIACEPACOgUxLjEuOA==" group-title="",GORDON RAMSAY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://live-manifest.production-public.tubi.io/live/329f14a6-aa88-4a92-a7ee-6a44b8b1b96c/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tap movies" tvg-logo="https://welcome.blasttv.ph/assets/section-logos-1-tapmovies.png" group-title="",TAP MOVIES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
-
-#EXTINF:-1 tvg-id="new kpop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/This_is_K_POP_Channel_M_Logo.png" group-title="",NEW KPOP
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vevo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/1200px-Vevo_2016_Logo.svg.png" group-title="",VEVO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="dw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png" group-title="",DW
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-
-#EXTINF:-1 tvg-id="crime investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="",CRIME INVESTIGATION
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd
-
-#EXTINF:-1 tvg-id="bbc top gear" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/Top-Gear-Logo.png" group-title="",BBC TOP GEAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-vizious/playlist.m3u8
-
-#EXTINF:-1 tvg-id="transporter" tvg-logo="" group-title="",24/7 | TRANSPORTER
-http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRIUfg0qHkzUKFod5BuJ7FYc
-
-#EXTINF:-1 tvg-id="transformer" tvg-logo="" group-title="",24/7 | TRANSFORMERS
-http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRCn_d9JITcfCECiecaEpVxM
-
-#EXTINF:-1 tvg-id="transformer" tvg-logo="" group-title="",24/7 | FAST AND FURIOUS
-http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRBSrx-izryuMwLSrienCUG8
-
-#EXTINF:-1 tvg-id="transformer" tvg-logo="" group-title="",24/7 | WRESTLEMANIA
-http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctROVqUhtVYb1BzwBsS6dNf3s
-
-#EXTINF:-1 tvg-id="transformer" tvg-logo="" group-title="",24/7 | WRESTLEMANIA
-http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctROVqUhtVYb1BzwBsS6dNf3s
 
 #EXTINF:-1 tvg-id="SpectrumSportsNetLADodgers.us" tvg-logo="" tvg-name="USA: SPORTSNET LA DODGERS" group-title="",USA: SPORTSNET LA DODGERS
 http://zerotwo.access.ly:2096/Kentynes/0176324859/815088
@@ -749,3 +658,64 @@ http://xxip9.top:8080/live/20DKn6/055490/20946.ts
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4" tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4" tvg-chno="" tvg-name="beIN SPORTS XTRA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2bc78162-f4bb-4276-8df3-85c13133df3f/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png" group-title="",beIN SPORTS XTRA
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4/?X-Plex-Token=NEtrh4JxicM85z9DHyzX
 
+#EXTINF:-1 tvg-id="no reservations" tvg-logo="https://image.tmdb.org/t/p/original/plqxH48TnvJUVX7PGf91YynOdfc.png" group-title="",No Reservations
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=67fcba8e2a1979d8e0753f1fb2bd1e10:cfcdb210d5b634e910f201117adb58b3
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/jylbletxz4/out/v1/b4c3ecda4d944c4598f1714d1f9bc856/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="DISCOVERY TURBO" tvg-logo="http://primestreamstv.com/logos/Discovery%20Turbo.png" group-title="",DISCOVERY TURBO
+http://primestreams.tv:826/live/Chine611/DEht5fmfT2/1692.ts
+
+#EXTINF:-1 tvg-id="river monster" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLWjLgV19fWlrjhOZvtXIN8IqfwWV12U_J6pTHTu8hA&amp;amp;s=10" group-title="",RIVER MONSTER
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="france 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="",FRANCE 24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mythbusters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/MythBusters_logo.png" group-title="",MYTHBUSTERS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ghost channel" tvg-logo="https://images-platform.99static.com/Jx6gvRATB1SYznnUNmFr0OyhpyU=/386x124:1203x941/500x500/top/smart/99designs-contests-attachments/114/114915/attachment_114915164" group-title="",GHOST CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
+https://9485e5d3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dob3N0SU5UTF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="walking dead universe" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/twdu.png" group-title="",WALKING DEAD UNIVERSE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://4af795c331a141e19ee30918d8abc796.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG_TheWalkingDeadUniverse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gordon ramsay" tvg-logo="https://canvas-lb.tubitv.com/opts/Yd-DTmrsrFE8pQ==/0712ff05-9fca-4960-ab6f-47b369b4aee9/CIACEPACOgUxLjEuOA==" group-title="",GORDON RAMSAY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://live-manifest.production-public.tubi.io/live/329f14a6-aa88-4a92-a7ee-6a44b8b1b96c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tap movies" tvg-logo="https://welcome.blasttv.ph/assets/section-logos-1-tapmovies.png" group-title="",TAP MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="new kpop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/This_is_K_POP_Channel_M_Logo.png" group-title="",NEW KPOP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
+https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vevo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/1200px-Vevo_2016_Logo.svg.png" group-title="",VEVO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png" group-title="",DW
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="crime investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="",CRIME INVESTIGATION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd
+
+#EXTINF:-1 tvg-id="bbc top gear" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/Top-Gear-Logo.png" group-title="",BBC TOP GEAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-vizious/playlist.m3u8
