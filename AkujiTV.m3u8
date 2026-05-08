@@ -104,7 +104,7 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd
 
-#EXTINF:-1 tvg-id="119457" tvg-name="PH: Cinemo" group-title="",PH: Cinemo
+#EXTINF:-1 tvg-id="119457" tvg-name="PH: Cinemo" group-title="",Cinemo
 http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/119457.ts
 
 #EXTINF:-1 tvg-id="pbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="",PBO
