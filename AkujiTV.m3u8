@@ -839,3 +839,14 @@ http://ultrax.online:8080/live/14089039526wspzero/230221zero/280761.ts
 http://ultrax.online:8080/live/14089039526wspzero/230221zero/280762.ts
 #EXTINF:-1 tvg-id="280763" tvg-name="CA | NBA TV" tvg-logo="/logos/ENG_Canada/nba.png" group-title="",CA | NBA TV
 http://ultrax.online:8080/live/14089039526wspzero/230221zero/280763.ts
+
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="http://primestreamstv.com/logos/TSN%201.png" group-title="SPORTS NETWORKS",TSN 1
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1621.ts
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="http://primestreamstv.com/logos/TSN%202.png" group-title="SPORTS NETWORKS",TSN 2
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1622.ts
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="http://primestreamstv.com/logos/TSN%203.png" group-title="SPORTS NETWORKS",TSN 3
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1623.ts
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="http://primestreamstv.com/logos/TSN%204.png" group-title="SPORTS NETWORKS",TSN 4
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1624.ts
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="http://primestreamstv.com/logos/TSN%205.png" group-title="SPORTS NETWORKS",TSN 5
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1625.ts
