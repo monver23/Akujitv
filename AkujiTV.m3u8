@@ -189,6 +189,9 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6ns8qsqde/o
 #EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/2048px-HBO_Movies_Logo.svg.png" group-title="",HBO MOVIES
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/95924.ts
 
+#EXTINF:-1 tvg-id="sony.us" tvg-name="SONY MOVIE CHANNEL" tvg-logo="http://primestreamstv.com/logos/Sony%20Movie%20Channel.png" group-title="NETWORK TV",SONY MOVIE CHANNEL
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/38701.ts
+
 #EXTINF:-1 tvg-id="transporter" tvg-logo="" group-title="",24/7 | TRANSPORTER
 http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRIUfg0qHkzUKFod5BuJ7FYc
 
@@ -375,17 +378,15 @@ https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9971b0e491c4a66e50be78347fc6491d:b9cd2638972febcc0de90a7200b0e5a3
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ssllbh2t66/out/v1/4ff0003040ad4ce590943d03d63466ae/cenc.mpd
 
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="COMEDY CENTRAL" tvg-logo="http://primestreamstv.com/logos/Comedy%20Central.png" group-title="",COMEDY CENTRAL
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1679.ts
+
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="SPORTSNET 360" tvg-logo="http://primestreamstv.com/logos/Sports%20Net%20360.png" group-title="",SPORTSNET 360
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/26000.ts
 
 #EXTINF:-1 tvg-id="400000106" tvg-logo="https://canvas-lb.tubitv.com/opts/SImeAOgOma8YLQ==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjlAAQ==" group-title="",UFC
 https://live-manifest.production-public.tubi.io/live/dd6d627f-f0f8-48bb-b627-7f7c4fceec37/playlist.m3u8
 
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL NETWORK" tvg-logo="http://primestreamstv.com/logos/NFL.png" group-title= "",NFL NETWORK
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/58790.ts
-
-#EXTINF:-1 tvg-id="superbowl" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/StationLogoArt-SuperBowlChampions._SL170_FMpng_.png" group-title="",SUPERBOWL CHAMPIONS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ad0d4678d3e336e50658900a3b992a3:28cf6ca83a2612a50ee7573824c4329c
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oevunyu769/out/v1/af87c268ac4c429daa7b124216d07f4c/cenc.mpd
 
 #EXTINF:-1 tvg-id="118638" tvg-name="PICKLEBALL TV" tvg-logo="https://pickleballtv.com/wp-content/uploads/2023/10/cropped-pbtv-300x71-1.png" group-title="",PICKLEBALL TV
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/118638.ts
@@ -410,6 +411,13 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="BEIN SPORTS USA" tvg-logo="http://primestreamstv.com/logos/BEIN%20SPORT%20USA.png" group-title="",BEIN SPORTS USA
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1501.ts
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="BEIN SPORTS ESP (US)" tvg-logo="http://primestreamstv.com/logos/BeinSportsN.png" group-title="",BEIN SPORTS ESP (US)
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/27685.ts
+#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="BEIN SPORTS LA LIGA" tvg-logo="http://primestreamstv.com/logos/BeinSportsN.png" group-title="",BEIN SPORTS LA LIGA
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/28014.ts
+
 #EXTINF:-1 tvg-id="fifa+" tvg-logo="https://i.pinimg.com/736x/bd/ab/68/bdab6851e7bb4bee055f6d6f55900de2.jpg" group-title="",FIFA+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://wurlfifa.global.transmit.live/hls/68962aee6d5f7138484ade6a/v1/sysdata_s_p_a_fifa_7/lg_us/latest/main/hls/playlist.m3u8
@@ -418,11 +426,8 @@ https://wurlfifa.global.transmit.live/hls/68962aee6d5f7138484ade6a/v1/sysdata_s_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="espn.us" tvg-name="NCAAF 01: ESPN" tvg-logo="https://d2779tscntxxsw.cloudfront.net/64e67d79c6317.png" group-title="",ESPN
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/114072.ts
-
-#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="NCAAF 11: SEC NETWORK" tvg-logo="https://d2779tscntxxsw.cloudfront.net/64e67d79c6317.png" group-title="",SEC NETWORK
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/114082.ts
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="SEC NETWORK" tvg-logo="http://primestreamstv.com/logos/SEC.png" group-title="",SEC NETWORK
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1419.ts
 
 #EXTINF:-1 tvg-id="pga tour" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/PGA_Tour_logo.svg/939px-PGA_Tour_logo.svg.png" group-title="",PGA TOUR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -449,20 +454,12 @@ https://neacdnpop3-edge02.aws.playco.com/live/eds/FightBox/DASH/FightBox.mpd
 #KODIPROP:inputstream.adaptive.license_key=00459011b26524a673b0ced54cef0a8b:b31ded0e8a4cad5a36b6be06dae76f28
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(nbcsportspeacock)/master.mpd
 
-#EXTINF:-1 tvg-id="cbc sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/CBC_Sport_Logo.png" group-title="",CBC SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-
-#EXTINF:-1 tvg-id="claro sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg" group-title="",CLARO SPORT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a23d3a4fc1747364e0c21a2628c2527:a86b3696fd9a4710da046dcac8af0b3c
-https://abm5x5xaaaaaaaamnqoji7bfgac34.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/grfgykc72o/out/v1/3b99d95f4ec44db180e4016db60d82ea/cenc.mpd
-
-#EXTINF:-1 tvg-id="nfl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="",NFL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master.mpd
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL NETWORK" tvg-logo="http://primestreamstv.com/logos/NFL.png" group-title="",NFL NETWORK
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/58790.ts
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="NFL REDZONE" tvg-logo="http://primestreamstv.com/logos/NFL_REDZONE.png" group-title="",NFL REDZONE
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/98395.ts
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="NFL REDZONE (SD)" tvg-logo="http://primestreamstv.com/logos/NFL_REDZONE.png" group-title="",NFL REDZONE (SD)
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/109188.ts
 
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="http://primestreamstv.com/logos/TSN%201.png" group-title="",TSN 1
 http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1621.ts
@@ -488,35 +485,10 @@ https://live-manifest.production-public.tubi.io/live/c92d028f-fd29-4925-9c4d-271
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
 
-#EXTINF:-1 tvg-id="world billiards tv" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_neKG9N1y6iUvIoc_02EyV8uj7cFsxkA4CARXB3YsgPeac=s900-c-k-c0x00ffffff-no-rj" group-title="",WORLD BILLIARDS TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://b55d6132fb204101b32b9466f6d54891.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG_BilliardsTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="billiard tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk8KeDbydjy8Jip58oVzSZVrAo0PG9wOBMBt1MFH5L1imI7kGnB7Df_SQv&amp;amp;s=10" group-title="",BILLIARD TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
-
-#EXTINF:-1 tvg-id="astro football fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="",ASTRO FOOTBALL FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://7pal.short.gy/astross4
-
-#EXTINF:-1 tvg-id="cbssporetworkusa.us" tvg-name="US CBS Sports Network HD " tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="",US CBS Sports Network HD 
-http://xxip9.top:8080/live/20DKn6/055490/10454.ts
-
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US Fox Sports 1 " tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="",US Fox Sports 1 
-http://xxip9.top:8080/live/20DKn6/055490/1846.ts
-
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US Fox Sports 2" tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png" group-title="",US Fox Sports 2 
-http://xxip9.top:8080/live/20DKn6/055490/1847.ts
-
-#EXTINF:-1 tvg-id="tntpacific.us" tvg-name="US TNT (West) " group-title="",US TNT (West) 
-http://xxip9.top:8080/live/20DKn6/055490/46688.ts
-#EXTINF:-1 tvg-id="tnt.us" tvg-name="US TNT East " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="",US TNT East 
-http://xxip9.top:8080/live/20DKn6/055490/10455.ts
-
-#EXTINF:-1 tvg-id="horizon sports" tvg-logo="https://i0.wp.com/www.horizonsports.com/wp-content/uploads/2018/06/logo-horizon_wellness-transp.png?fit=1467%2C549&amp;amp;ssl=1" group-title="",HORIZON SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
 
 #EXTINF:-1 tvg-id="tap sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="",TAP SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -542,9 +514,45 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/5sxuux529k/
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-5-uk.png?raw=true" group-title="",TNT Sports 5 FHD
-http://inthezone.pro:80/Sofia/Sofia/640881
+#EXTINF:-1 tvg-id="tntsports5.uk" tvg-name="TNT SPORTS 5 | VIP" tvg-logo="https://media.info/i/lf/0/1689778005/5414.png" group-title="",TNT SPORTS 5 | VIP
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/100702.ts
+#EXTINF:-1 tvg-id="tntsports6.uk" tvg-name="TNT SPORTS 6 | VIP" tvg-logo="https://media.info/i/lf/0/1689778005/5414.png" group-title="",TNT SPORTS 6 | VIP
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/100703.ts
+#EXTINF:-1 tvg-id="tntsports7.uk" tvg-name="TNT SPORTS 7 | VIP" tvg-logo="https://media.info/i/lf/0/1689778005/5414.png" group-title="",TNT SPORTS 7 | VIP
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/100704.ts
+#EXTINF:-1 tvg-id="tntsports8.uk" tvg-name="TNT SPORTS 8 | VIP" tvg-logo="https://media.info/i/lf/0/1689778005/5414.png" group-title="",TNT SPORTS 8 | VIP
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/100705.ts
+#EXTINF:-1 tvg-id="tntsports9.uk" tvg-name="TNT SPORTS 9 | VIP" tvg-logo="https://media.info/i/lf/0/1689778005/5414.png" group-title="",TNT SPORTS 9 | VIP
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/100706.ts
+#EXTINF:-1 tvg-id="tntsports10.uk" tvg-name="TNT SPORTS 10 | VIP" tvg-logo="https://media.info/i/lf/0/1689778005/5414.png" group-title="",TNT SPORTS 10 | VIP
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/100707.ts
 
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="Bee n Sport 1" tvg-logo="http://primestreamstv.com/logos/bein%201HD.png" group-title="",Bee n Sport 1
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89210.ts
+#EXTINF:-1 tvg-id="beinsports2.us" tvg-name="Bee n Sport 2" tvg-logo="http://primestreamstv.com/logos/bein%202HD.png" group-title="",Bee n Sport 2
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89209.ts
+#EXTINF:-1 tvg-id="89208" tvg-name="Bee N Sport 3" tvg-logo="http://primestreamstv.com/logos/bein%203HD.png" group-title="",Bee N Sport 3
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89208.ts
+#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="Bee N Sport 4" tvg-logo="http://primestreamstv.com/logos/bein%204HD.png" group-title="",Bee N Sport 4
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89207.ts
+#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="Bee n Sport 5" tvg-logo="http://primestreamstv.com/logos/bein%205HD.png" group-title="",Bee n Sport 5
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89206.ts
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="Bee n Sport 6" tvg-logo="http://primestreamstv.com/logos/bein%206HD.png" group-title="",Bee n Sport 6
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89205.ts
+#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="Bee n Sport 7" tvg-logo="http://primestreamstv.com/logos/bein%207HD.png" group-title="",Bee n Sport 7
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89204.ts
+#EXTINF:-1 tvg-id="beinsports8.us" tvg-name="Bee N Sport 8" tvg-logo="http://primestreamstv.com/logos/bein%208HD.png" group-title="",Bee N Sport 8
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89203.ts
+#EXTINF:-1 tvg-id="beinsports9.us" tvg-name="Bee N Sport 9" tvg-logo="http://primestreamstv.com/logos/bein%209HD.png" group-title="",Bee N Sport 9
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89202.ts
+#EXTINF:-1 tvg-id="beinsports10.us" tvg-name="Bee N Sport 10" tvg-logo="http://primestreamstv.com/logos/bein%2010HD.png" group-title="",Bee N Sport 10
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89201.ts
+#EXTINF:-1 tvg-id="89200" tvg-name="Bee N Sport 11" tvg-logo="http://primestreamstv.com/logos/bein%2011HD.png" group-title="",Bee N Sport 11
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89200.ts
+#EXTINF:-1 tvg-id="89199" tvg-name="Bee n Sport 12" tvg-logo="http://primestreamstv.com/logos/bein%2012HD.png" group-title="",Bee n Sport 12
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89199.ts
+#EXTINF:-1 tvg-id="100633" tvg-name="Bee N Sport 13" tvg-logo="http://primestreamstv.com/logos/beIN%2013HD.png" group-title="",Bee N Sport 13
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/100633.ts
 
 #EXTINF:-1 tvg-id="sky_sport_1_hd" tvg-logo="https://upload.wikimedia.org/wikipedia/de/c/c5/Sky_Sport_1_HD_-_Logo_2020.png" group-title="",SKY SPORT 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
