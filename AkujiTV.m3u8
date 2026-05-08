@@ -527,32 +527,6 @@ http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/100706.ts
 #EXTINF:-1 tvg-id="tntsports10.uk" tvg-name="TNT SPORTS 10 | VIP" tvg-logo="https://media.info/i/lf/0/1689778005/5414.png" group-title="",TNT SPORTS 10 | VIP
 http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/100707.ts
 
-#EXTINF:-1 tvg-id="beinsports.us" tvg-name="Bee n Sport 1" tvg-logo="http://primestreamstv.com/logos/bein%201HD.png" group-title="",Bee n Sport 1
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89210.ts
-#EXTINF:-1 tvg-id="beinsports2.us" tvg-name="Bee n Sport 2" tvg-logo="http://primestreamstv.com/logos/bein%202HD.png" group-title="",Bee n Sport 2
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89209.ts
-#EXTINF:-1 tvg-id="89208" tvg-name="Bee N Sport 3" tvg-logo="http://primestreamstv.com/logos/bein%203HD.png" group-title="",Bee N Sport 3
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89208.ts
-#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="Bee N Sport 4" tvg-logo="http://primestreamstv.com/logos/bein%204HD.png" group-title="",Bee N Sport 4
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89207.ts
-#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="Bee n Sport 5" tvg-logo="http://primestreamstv.com/logos/bein%205HD.png" group-title="",Bee n Sport 5
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89206.ts
-#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="Bee n Sport 6" tvg-logo="http://primestreamstv.com/logos/bein%206HD.png" group-title="",Bee n Sport 6
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89205.ts
-#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="Bee n Sport 7" tvg-logo="http://primestreamstv.com/logos/bein%207HD.png" group-title="",Bee n Sport 7
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89204.ts
-#EXTINF:-1 tvg-id="beinsports8.us" tvg-name="Bee N Sport 8" tvg-logo="http://primestreamstv.com/logos/bein%208HD.png" group-title="",Bee N Sport 8
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89203.ts
-#EXTINF:-1 tvg-id="beinsports9.us" tvg-name="Bee N Sport 9" tvg-logo="http://primestreamstv.com/logos/bein%209HD.png" group-title="",Bee N Sport 9
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89202.ts
-#EXTINF:-1 tvg-id="beinsports10.us" tvg-name="Bee N Sport 10" tvg-logo="http://primestreamstv.com/logos/bein%2010HD.png" group-title="",Bee N Sport 10
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89201.ts
-#EXTINF:-1 tvg-id="89200" tvg-name="Bee N Sport 11" tvg-logo="http://primestreamstv.com/logos/bein%2011HD.png" group-title="",Bee N Sport 11
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89200.ts
-#EXTINF:-1 tvg-id="89199" tvg-name="Bee n Sport 12" tvg-logo="http://primestreamstv.com/logos/bein%2012HD.png" group-title="",Bee n Sport 12
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/89199.ts
-#EXTINF:-1 tvg-id="100633" tvg-name="Bee N Sport 13" tvg-logo="http://primestreamstv.com/logos/beIN%2013HD.png" group-title="",Bee N Sport 13
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/100633.ts
 
 #EXTINF:-1 tvg-id="sky_sport_1_hd" tvg-logo="https://upload.wikimedia.org/wikipedia/de/c/c5/Sky_Sport_1_HD_-_Logo_2020.png" group-title="",SKY SPORT 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
