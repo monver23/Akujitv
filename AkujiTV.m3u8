@@ -491,7 +491,7 @@ https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://7pal.short.gy/astross4
 
-#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US CBS Sports Network HD " tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="",US CBS Sports Network HD 
+#EXTINF:-1 tvg-id="cbssporetworkusa.us" tvg-name="US CBS Sports Network HD " tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="",US CBS Sports Network HD 
 http://xxip9.top:8080/live/20DKn6/055490/10454.ts
 
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US Fox Sports 1 " tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="",US Fox Sports 1 
@@ -536,20 +536,6 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/pnu10tp36z/
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-5-uk.png?raw=true" group-title="",TNT Sports 5 FHD
 http://inthezone.pro:80/Sofia/Sofia/640881
 
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="http://primestreamstv.com/logos/TSN%201.png" group-title="",TSN 1
-http://xxip9.top:8080/live/109420665/109420665/57292.ts
-
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="http://primestreamstv.com/logos/TSN%202.png" group-title="",TSN 2
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/1622.ts
-
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="http://primestreamstv.com/logos/TSN%203.png" group-title="",TSN 3
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/1623.ts
-
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="http://primestreamstv.com/logos/TSN%204.png" group-title="",TSN 4
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/1624.ts
-
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="http://primestreamstv.com/logos/TSN%205.png" group-title="",TSN 5
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/1625.ts
 
 #EXTINF:-1 tvg-id="sky_sport_1_hd" tvg-logo="https://upload.wikimedia.org/wikipedia/de/c/c5/Sky_Sport_1_HD_-_Logo_2020.png" group-title="",SKY SPORT 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
