@@ -106,15 +106,13 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.
 
 https://raw.githubusercontent.com/ryansnetcafe/ott-playlist/refs/heads/main/ryansnetcafe.m3u#:~:text=LTCR16K4MRAXXX%26NeedJITP%3D1%26JITPMediaType%3DDASH%26JITPDRMType%3DNO-,%23EXTINF%3A%2D1%20tvg%2Dlogo%3D%22https%3A//static.wikia.nocookie.net/russel/images,terminalflag%3D1%26profilecode%3D%26usersessionid%3D852NEU8T1ZOXXX%26NeedJITP%3D1%26JITPMediaType%3DDASH%26JITPDRMType%3DNO,-%23EXTINF%3A%2D1%20tvg%2Dlogo%3D%22https%3A//i.imgur
 
-#EXTINF:-1 tvg-id="pbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="",PBO
-https://cgplaymaxcigcon.vwgsalvador.workers.dev/conv_local_pbo/cplaymax/playlist.m3u8
+https://raw.githubusercontent.com/ryansnetcafe/ott-playlist/refs/heads/main/ryansnetcafe.m3u#:~:text=%23EXTINF%3A%2D1%20tvg%2Dlogo%3D%22https%3A//i.imgur.com/61fHpnW,profilecode%3D%26usersessionid%3D52Y01DLD7HXXXX%26NeedJITP%3D1%26JITPMediaType%3DDASH%26JITPDRMType%3DNO
 
 #EXTINF:-1 tvg-id="sinemanila" tvg-logo="assets/images/streaming_media.png" group-title="",SINEMANILA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8
 
-#EXTINF:-1 tvg-id="viva cinema" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Viva-Cinema-Sept-Vid-Thumbnail.jpg" group-title="",VIVA CINEMA
-https://cgplaymaxcigcon.vwgsalvador.workers.dev/conv_local_viva_cinema/cplaymax/playlist.m3u8
+https://raw.githubusercontent.com/ryansnetcafe/ott-playlist/refs/heads/main/ryansnetcafe.m3u#:~:text=%23EXTINF%3A%2D1%20tvg%2Dlogo%3D%22https%3A//static.wikia.nocookie.net/tvfanon6528,1%26profilecode%3D%26usersessionid%3D1Z8S6AOLQ8XXXX%26NeedJITP%3D1%26JITPMediaType%3DDASH%26JITPDRMType%3DNO
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="", Solarflix
 http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1633620334084&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B91ZY82QQ8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
