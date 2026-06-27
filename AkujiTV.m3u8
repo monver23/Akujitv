@@ -167,8 +167,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/250px-HBO_Drama_Logo.svg.png" group-title="",HBO DRAMA
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/2515.ts
 
 #EXTINF:-1 tvg-id="hbo hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="",HBO HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -180,23 +178,15 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 
-#EXTINF:-1 tvg-id="hbo comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="",HBO COMEDY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
-
-#EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/2048px-HBO_Movies_Logo.svg.png" group-title="",HBO MOVIES
-http://primestreams.tv:826/live/Chine611/DEht5fmfT2/95924.ts
-
 #EXTINF:-1 tvg-id="sony.us" tvg-name="SONY MOVIE CHANNEL" tvg-logo="http://primestreamstv.com/logos/Sony%20Movie%20Channel.png" group-title="",SONY MOVIE CHANNEL
 http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/38701.ts
 
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://i.imgur.com/2TeKCBK.png",National Geographic Channel
-http://supersonictv.live:8080/611366/682256/22124
+http://bgdc.live:25461/live/rodneyb5777/5777/10429.ts
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9.png",National Geographic Wild
-http://supersonictv.live:8080/611366/682256/22125
+http://bgdc.live:25461/live/rodneyb5777/5777/10428.ts
 
 #EXTINF:-1 tvg-id="discovery channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShny385Q5w27liN2LJql62rne-2BJ89kM6iQ&amp;amp;s" group-title="",DISCOVERY CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -259,6 +249,16 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/i
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74d68f9d541c4430a0e94292bd478a65:a0a26dd189e54352b488343102a49efb 
+#EXTINF:-1 tvg-id="304343" tvg-name="World Cup TV" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2026/06/01100422-06frvrwe8w3np6fv.png" group-title="",World Cup TV
+http://burasuto.wasabih.net/blast/304343/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d11ffa8974f541b1af02d124f7ccefa4:4e40c22c8b9849119670532becfb9306
+#EXTINF:-1 tvg-id="304344" tvg-name="World Cup TV 2" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2026/06/01100741-xohdgirjqlyydgxq.png" group-title="",World Cup TV 2
+http://burasuto.wasabih.net/blast/304344/master.mpd
 
 #EXTINF:-1 tvg-id="spotv hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1280px-SPOTV_logo.svg.png" group-title="",SPOTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -818,13 +818,5 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-vizious/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74d68f9d541c4430a0e94292bd478a65:a0a26dd189e54352b488343102a49efb 
-#EXTINF:-1 tvg-id="304343" tvg-name="World Cup TV" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2026/06/01100422-06frvrwe8w3np6fv.png" group-title="BlastTV",World Cup TV
-http://burasuto.wasabih.net/blast/304343/master.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d11ffa8974f541b1af02d124f7ccefa4:4e40c22c8b9849119670532becfb9306
-#EXTINF:-1 tvg-id="304344" tvg-name="World Cup TV 2" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2026/06/01100741-xohdgirjqlyydgxq.png" group-title="BlastTV",World Cup TV 2
-http://burasuto.wasabih.net/blast/304344/master.mpd
 
