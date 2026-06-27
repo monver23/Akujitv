@@ -191,17 +191,6 @@ http://primestreams.tv:826/live/Chine611/DEht5fmfT2/95924.ts
 #EXTINF:-1 tvg-id="sony.us" tvg-name="SONY MOVIE CHANNEL" tvg-logo="http://primestreamstv.com/logos/Sony%20Movie%20Channel.png" group-title="",SONY MOVIE CHANNEL
 http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/38701.ts
 
-#EXTINF:-1 tvg-id="transporter" tvg-logo="" group-title="",24/7 | TRANSPORTER
-http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRIUfg0qHkzUKFod5BuJ7FYc
-
-#EXTINF:-1 tvg-id="transformer" tvg-logo="" group-title="",24/7 | TRANSFORMERS
-http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRCn_d9JITcfCECiecaEpVxM
-
-#EXTINF:-1 tvg-id="transformer" tvg-logo="" group-title="",24/7 | FAST AND FURIOUS
-http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRBSrx-izryuMwLSrienCUG8
-
-#EXTINF:-1 tvg-id="transformer" tvg-logo="" group-title="",24/7 | WRESTLEMANIA
-http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctROVqUhtVYb1BzwBsS6dNf3s
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://i.imgur.com/2TeKCBK.png",National Geographic Channel
 http://supersonictv.live:8080/611366/682256/22124
