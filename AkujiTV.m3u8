@@ -314,6 +314,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 #EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV HD" tvg-logo="" group-title="",NBA TV HD
 http://bgdc.live:25461/live/rodneyb5777/5777/190956.ts
 
+#EXTINF:-1 tvg-id="3157539" tvg-name="USA HBO Boxing" group-title="",HBO Boxing
+http://limited-name.com:80/live/Life12345/Life12345/3157539.ts
 
 #EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="SHOWTIME EXTREME" tvg-logo="http://primestreamstv.com/logos/Showtime%20Extreme%20East.png" group-title="",SHOWTIME EXTREME
 http://bgdc.live:25461/live/rodneyb5777/5777/14170.ts
@@ -348,29 +350,26 @@ https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m
 #EXTINF:-1 tvg-id="245192" tvg-name="24/7 Car Masters Rust to Riches" group-title="",Car Masters Rust to Riches
 http://bgdc.live:25461/live/rodneyb5777/5777/245192.ts
 
-#EXTINF:-1 tvg-id="233986" tvg-name="24/7 House of Dragon" tvg-logo="http://azsold.xyz:9090/logos/s370.jpg" group-title="", House of Dragon
-http://bgdc.live:25461/live/rodneyb5777/5777/233986.ts
+#EXTINF:-1 tvg-id="2903029" tvg-name="El Chapo" tvg-logo="https://i.imgur.com/WTMy7Kp.png" group-title="",El Chapo
+http://limited-name.com:80/live/Life12345/Life12345/2903029.ts
 
-#EXTINF:-1 tvg-id="236334" tvg-name="TRANSFORMERS COLLECTION" tvg-logo="https://www.themoviedb.org/t/p/w1280/4N4sipl8T72tNE4earcctQa2Kw2.jpg" group-title="",TRANSFORMERS COLLECTION
-http://bgdc.live:25461/live/rodneyb5777/5777/236334.ts
+#EXTINF:-1 tvg-id="2903030" tvg-name="Forged In Fire" tvg-logo="https://i.imgur.com/jIJcd9q.png" group-title="",Forged In Fire
+http://limited-name.com:80/live/Life12345/Life12345/2903030.ts
 
-#EXTINF:-1 tvg-id="236007" tvg-name="JOHN WICK COLLECTION" tvg-logo="https://www.themoviedb.org/t/p/w1280/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg" group-title="",JOHN WICK COLLECTION
-http://bgdc.live:25461/live/rodneyb5777/5777/236007.ts
+#EXTINF:-1 tvg-id="2902946" tvg-name="Ancient Aliens" tvg-logo="https://i.imgur.com/n5L1Ak5.png" group-title="",Ancient Aliens
+http://limited-name.com:80/live/Life12345/Life12345/2902946.ts
 
-#EXTINF:-1 tvg-id="235529" tvg-name="24/7 The Expendables" tvg-logo="http://azsold.xyz:9090/logos/s108.jpg" group-title="", The Expendables
-http://bgdc.live:25461/live/rodneyb5777/5777/235529.ts
+#EXTINF:-1 tvg-id="2902848" tvg-name="Planet Of The Apes Movies" tvg-logo="https://i.imgur.com/YjrUiXo.png" group-title="",Planet Of The Apes Movies
+http://limited-name.com:80/live/Life12345/Life12345/2902848.ts
 
-#EXTINF:-1 tvg-id="235521" tvg-name="24/7 Fast and the Furious Pt-1" tvg-logo="http://azsold.xyz:9090/logos/s116.jpg" group-title="",Fast and the Furious 
-http://bgdc.live:25461/live/rodneyb5777/5777/235521.ts
+#EXTINF:-1 tvg-id="2902814" tvg-name="John Wick" tvg-logo="https://i.imgur.com/5MSeysh.png" group-title="",John Wick
+http://limited-name.com:80/live/Life12345/Life12345/2902814.ts
 
-#EXTINF:-1 tvg-id="235531" tvg-name="24/7 The Lord of the Rings" tvg-logo="http://azsold.xyz:9090/logos/s104.jpg" group-title="",The Lord of the Rings
-http://bgdc.live:25461/live/rodneyb5777/5777/235531.ts
+#EXTINF:-1 tvg-id="2902800" tvg-name="Hunger Games" tvg-logo="https://i.imgur.com/3CgRtBW.png" group-title="",Hunger Games
+http://limited-name.com:80/live/Life12345/Life12345/2902800.ts
 
-#EXTINF:-1 tvg-id="235544" tvg-name="24/7 Rocky Balboa" tvg-logo="http://azsold.xyz:9090/logos/s91.jpg" group-title="",Rocky Balboa
-http://bgdc.live:25461/live/rodneyb5777/5777/235544.ts
-
-#EXTINF:-1 tvg-id="235551" tvg-name="24/7 Harry Potter" tvg-logo="http://azsold.xyz:9090/logos/s80.jpg" group-title="",Harry Potter
-http://bgdc.live:25461/live/rodneyb5777/5777/235551.ts
+#EXTINF:-1 tvg-id="2902783" tvg-name="Fast And Furious" tvg-logo="https://i.imgur.com/J2UdX3Z.png" group-title="",Fast And Furious
+http://limited-name.com:80/live/Life12345/Life12345/2902783.ts
 
 
 
@@ -434,12 +433,11 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="beinsports.us" tvg-name="BEIN SPORTS USA" tvg-logo="http://primestreamstv.com/logos/BEIN%20SPORT%20USA.png" group-title="",BEIN SPORTS USA
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1501.ts
-#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="BEIN SPORTS ESP (US)" tvg-logo="http://primestreamstv.com/logos/BeinSportsN.png" group-title="",BEIN SPORTS ESP (US)
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/27685.ts
-#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="BEIN SPORTS LA LIGA" tvg-logo="http://primestreamstv.com/logos/BeinSportsN.png" group-title="",BEIN SPORTS LA LIGA
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/28014.ts
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="USA BeIN SPORTS HD" tvg-logo="http://185.193.88.130:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="",USA BeIN SPORTS HD
+http://limited-name.com:80/live/Life12345/Life12345/220512.ts
+
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="USA BeIN Sports LaLiga" tvg-logo="http://172.110.220.61:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="",USA BeIN Sports LaLiga
+http://limited-name.com:80/live/Life12345/Life12345/220401.tss
 
 #EXTINF:-1 tvg-id="fifa+" tvg-logo="https://i.pinimg.com/736x/bd/ab/68/bdab6851e7bb4bee055f6d6f55900de2.jpg" group-title="",FIFA+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
