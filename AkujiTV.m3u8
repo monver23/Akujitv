@@ -312,7 +312,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/ind
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV HD" tvg-logo="" group-title="",NBA TV HD
-http://bgdc.live:25461/live/rodneyb5777/5777/190956.ts
+http://limited-name.com:80/live/Life12345/Life12345/395217.ts
 
 #EXTINF:-1 tvg-id="3157539" tvg-name="USA HBO Boxing" group-title="",HBO Boxing
 http://limited-name.com:80/live/Life12345/Life12345/3157539.ts
