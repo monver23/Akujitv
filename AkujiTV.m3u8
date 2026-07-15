@@ -288,9 +288,6 @@ http://limited-name.com:80/live/Life12345/Life12345/3226614.ts
 #EXTINF:-1 tvg-id="t2.us" tvg-name="USA T2 Tennis" group-title="",USA T2 Tennis
 http://limited-name.com:80/live/Life12345/Life12345/2994010.ts
 
-#EXTINF:-1 tvg-id="2502018" tvg-name="Tennis 01: US (ESPN+ 013) | World Table Tennis: United States Smash 2026 Jun 28 3:00PM ET @ 3:00 PM EST" group-title="",Tennis 01: US (ESPN+ 013) | World Table Tennis: United States Smash 2026 Jun 28 3:00PM ET @ 3:00 PM EST
-http://limited-name.com:80/live/Life12345/Life12345/2502018.ts
-
 #EXTINF:-1 tvg-id="tennischannel.us" tvg-name="Tennis Channel" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Tennis_Channel-2.png" group-title="",Tennis Channel
 http://bgdc.live:25461/live/rodneyb5777/5777/24716.ts
 
