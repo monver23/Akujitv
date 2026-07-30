@@ -89,7 +89,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_animax_sd_new/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/c4XvwO2.png",tvN Movies
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://i.imgur.com/c4XvwO2.png",tvN Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -97,7 +97,7 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/eE9IBhJ.png",tvN Premium
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://i.imgur.com/eE9IBhJ.png",tvN Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -196,6 +196,9 @@ http://bgdc.live:25461/live/rodneyb5777/5777/14931.ts
 #EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="SKY SCIFI/HORROR" tvg-logo="https://cantseeus.com/wp-content/uploads/2024/07/SCScifi.png" group-title="",SKY SCIFI/HORROR
 http://bgdc.live:25461/live/rodneyb5777/5777/14932.ts
 
+#EXTINF:-1 tvg-id="RK436342" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/RK436342/7909906937139544-ACTION_SC_logo_color.jpg" group-title="",Action Movies - Rakuten TV
+https://action-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7860/master.m3u8?
+
 #EXTINF:-1 channel-id="6d8659091f745b8b864f438f06c56fae" tvg-id="6d8659091f745b8b864f438f06c56fae" tvg-chno="241" tvg-name="TNA Wrestling Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d8659091f745b8b864f438f06c56fae/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1709314978559_TNAWrestling_Roku_WhiteLogo_CenterAligned_260x147.png" group-title="",TNA Wrestling Channel
 https://jmp2.uk/rok-6d8659091f745b8b864f438f06c56fae.m3u8
 
@@ -272,6 +275,14 @@ http://bgdc.live:25461/live/rodneyb5777/5777/190869.ts
 #EXTINF:-1 channel-id="6675c7868768aa0008d7f1c7" tvg-id="6675c7868768aa0008d7f1c7" tvg-chno="3805" tvg-name="Pokémon" tvg-logo="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png" group-title="",Pokémon
 https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 
+#EXTINF:-1 tvg-id="XU380235" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU380235/14490481290402556-Inuyasha_SC_logo_color.png" group-title="",Inuyasha
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884640/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=tclinuyasha&ads.channelId=88884640&ads.channelName=inuyasha_us&ads.csid=tcl2_us_tclinuyasha_ssai&ads.genre=Anime&ads.xumo_channelId=88884640&ads.xumo_channelName=TCLInuyasha&ads.xumo_contentId=4388&ads.xumo_contentName=TCLInuyasha&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=4388&ads.xumo_providerName=TCLInuyasha&ads.xumo_streamId=88884640&declaredCC1Language=en&includeAssetTags=true
+
+#EXTINF:-1 tvg-id="XU580950" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU580950/18091690681766852-9105170490570505-Naruto__SC_logo_color.png" group-title="",Naruto
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884645/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=tclnaruto&ads.channelId=88884645&ads.channelName=naruto_us&ads.csid=tcl2_us_tclnaruto_ssai&ads.genre=Anime&ads.xumo_channelId=88884645&ads.xumo_channelName=TCLNaruto&ads.xumo_contentId=4400&ads.xumo_contentName=TCLNaruto&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=4400&ads.xumo_providerName=TCLNaruto&ads.xumo_streamId=88884645&declaredCC1Language=en&includeAssetTags=true
+
+
+
 #EXTINF:-1 tvg-id="3226613" tvg-name="WC2026: BBC 1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="",WC2026: BBC 1
 http://limited-name.com:80/live/Life12345/Life12345/3226613.ts
 #EXTINF:-1 tvg-id="3226614" tvg-name="WC2026: BBC 2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="",WC2026: BBC 2
@@ -331,6 +342,11 @@ http://bgdc.live:25461/live/rodneyb5777/5777/14170.ts
 #EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="http://primestreamstv.com/logos/Showtime%202%20East.png" group-title="",SHOWTIME 2
 http://bgdc.live:25461/live/rodneyb5777/5777/14169.ts
 
+#EXTINF:-1 tvg-id="AM816556" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/AM816556/17488691219420701-Dog_the_Bounty_Hunter_SC_logo_color.jpg" group-title="",Dog The Bounty Hunter
+https://amg00276-amg00276c11-tclideo-na-3987.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-tclideona/playlist.m3u8?ap=1&app_bundle=REPLACE_ME&app_name=REPLACE_ME&app_store_url=REPLACE_ME&brand_name=TCL&cb=1785351665&channel_name=Dog+The+Bounty+Hunter&coppa=0&device%5Bdid%5D=REPLACE_ME&device%5Bdnt%5D=REPLACE_ME&device_make=REPLACE_ME&device_model=REPLACE_ME&gdpr=0&gdpr_consent=0&gender=REPLACE_ME&genre=REPLACE_ME&ic=IAB1-7&ifa_type=REPLACEME&mute=0&network_name=TCL&placement=1&schain=REPLACE_ME&skip=0&url=REPLACE_ME&us_privacy=1YN-
+
+#EXTINF:-1 tvg-id="AM833523" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/AM833523/1703056491113790214-logo_color.png" group-title="",Dog Whisperer with Cesar Milan
+https://amg01201-cinedigm-amg01201c30-tclideo-na-2022.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-dogwhispererwithcesarmilan-tclideona/playlist.m3u8
 
 #EXTINF:-1 tvg-id="world fishing network" tvg-logo="https://img.favpng.com/25/1/10/world-fishing-network-television-angling-logo-png-favpng-9AbhfFbS284eupR6SHWbqNq1Y.jpg" group-title="",WORLD FISHING NETWORK
 http://bgdc.live:25461/live/rodneyb5777/5777/4615.ts
