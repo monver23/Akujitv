@@ -196,7 +196,8 @@ http://bgdc.live:25461/live/rodneyb5777/5777/14931.ts
 #EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="SKY SCIFI/HORROR" tvg-logo="https://cantseeus.com/wp-content/uploads/2024/07/SCScifi.png" group-title="",SKY SCIFI/HORROR
 http://bgdc.live:25461/live/rodneyb5777/5777/14932.ts
 
-
+#EXTINF:-1 channel-id="6d8659091f745b8b864f438f06c56fae" tvg-id="6d8659091f745b8b864f438f06c56fae" tvg-chno="241" tvg-name="TNA Wrestling Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d8659091f745b8b864f438f06c56fae/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1709314978559_TNAWrestling_Roku_WhiteLogo_CenterAligned_260x147.png" group-title="",TNA Wrestling Channel
+https://jmp2.uk/rok-6d8659091f745b8b864f438f06c56fae.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://i.imgur.com/2TeKCBK.png",National Geographic Channel
 http://bgdc.live:25461/live/rodneyb5777/5777/10429.ts
@@ -260,15 +261,24 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/i
 #KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 channel-id="40d73ba5be775428a377908b02033b4c" tvg-id="40d73ba5be775428a377908b02033b4c" tvg-chno="419" tvg-name="BABY SHARK TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/40d73ba5be775428a377908b02033b4c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1700073147593_Roku_BABY_SHARK_TV_Image_HUD_2_260x147.png" group-title="",BABY SHARK TV
+https://jmp2.uk/rok-40d73ba5be775428a377908b02033b4c.m3u8
+
 #EXTINF:-1 tvg-id="190868" tvg-name="CA: DISNEY JR HD" tvg-logo="EMPTYcanada/disney%20jr.png" group-title="",DISNEY JR HD
 http://bgdc.live:25461/live/rodneyb5777/5777/190868.ts
 #EXTINF:-1 tvg-id="190869" tvg-name="CA: DISNEY XD HD" tvg-logo="EMPTYcanada/disney%20dx.png" group-title="",DISNEY XD HD
 http://bgdc.live:25461/live/rodneyb5777/5777/190869.ts
 
+#EXTINF:-1 channel-id="6675c7868768aa0008d7f1c7" tvg-id="6675c7868768aa0008d7f1c7" tvg-chno="3805" tvg-name="Pokémon" tvg-logo="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png" group-title="",Pokémon
+https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
+
 #EXTINF:-1 tvg-id="3226613" tvg-name="WC2026: BBC 1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="",WC2026: BBC 1
 http://limited-name.com:80/live/Life12345/Life12345/3226613.ts
 #EXTINF:-1 tvg-id="3226614" tvg-name="WC2026: BBC 2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="",WC2026: BBC 2
 http://limited-name.com:80/live/Life12345/Life12345/3226614.ts
+
+#EXTINF:-1 channel-id="c938a72f44eca56206b4b585ab01cad5" tvg-id="c938a72f44eca56206b4b585ab01cad5" tvg-chno="198" tvg-name="Tennis+" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c938a72f44eca56206b4b585ab01cad5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763502607268_MR-25-027Tennis_Plus_Roku_HUD_260x147px.png" group-title="",Tennis+
+https://jmp2.uk/rok-c938a72f44eca56206b4b585ab01cad5.m3u8
 
 #EXTINF:-1 tvg-id="t2.us" tvg-name="USA T2 Tennis" group-title="",USA T2 Tennis
 http://limited-name.com:80/live/Life12345/Life12345/2994010.ts
@@ -308,6 +318,9 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV HD" tvg-logo="" group-title="",NBA TV HD
 http://limited-name.com:80/live/Life12345/Life12345/395217.ts
+
+#EXTINF:-1 channel-id="5976983fa00953dab911a0ebea932943" tvg-id="5976983fa00953dab911a0ebea932943" tvg-chno="264" tvg-name="DraftKings" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5976983fa00953dab911a0ebea932943/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694201368177_Roku_DKN_HUD_Logo_Centered.png" group-title="",DraftKings
+https://jmp2.uk/rok-5976983fa00953dab911a0ebea932943.m3u8
 
 #EXTINF:-1 tvg-id="3157539" tvg-name="USA HBO Boxing" group-title="",HBO Boxing
 http://limited-name.com:80/live/Life12345/Life12345/3157539.ts
@@ -616,6 +629,9 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="crime investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="",CRIME INVESTIGATION
 http://bgdc.live:25461/live/rodneyb5777/5777/190855.ts
+
+#EXTINF:-1 channel-id="f17c82792f7cab26596e1a84ebc82a8b" tvg-id="f17c82792f7cab26596e1a84ebc82a8b" tvg-chno="205" tvg-name="Team Liquid" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f17c82792f7cab26596e1a84ebc82a8b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750722575713_TL_HUD_Logo_-_260x147-1.png" group-title="",Team Liquid
+https://jmp2.uk/rok-f17c82792f7cab26596e1a84ebc82a8b.m3u
 
 
 
