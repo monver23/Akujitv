@@ -650,7 +650,7 @@ http://bgdc.live:25461/live/rodneyb5777/5777/190855.ts
 https://jmp2.uk/rok-f17c82792f7cab26596e1a84ebc82a8b.m3u
 
 
-#EXTINF:-1 tvg-id="premiersports2hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A899C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Premier Sports 2 HD
+#EXTINF:-1 tvg-id="premiersports2hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A899C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="",Premier Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=72e4b9c13f864a52a9178d6c0e5b2394:9390c1edae5ecf680c168daf44bf6a03
 https://ucdn.mediaquest.com.ph/bpk-tv/premiersports2hd/default/index.mpd
