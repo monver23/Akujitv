@@ -240,6 +240,11 @@ https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/o
 #KODIPROP:inputstream.adaptive.license_key=df9071d1a149fe61eef6e6b4c4922a12:56c69aae13a844b5a6b3820239e22deb
 https://sr-live-weigel1.akamaized.net/out/v1/48a208050eed4a9785e9d1a4a3f2e4f0/index.mpd
 
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="NICKTOONS" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/02/nick-toons.png" group-title="",NICKTOONS
+http://http://bgdc.live:25461/live/rodneyb5777/5777/620.ts
+
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="NICKELODEON" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/02/nick.png" group-title="",NICKELODEON
+http://http://bgdc.live:25461/live/rodneyb5777/5777/621.ts
 
 #EXTINF:-1 tvg-id="crunchyroll" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crunchyroll_Logo.svg/1842px-Crunchyroll_Logo.svg.png" group-title="",CRUNCHYROLL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -248,11 +253,6 @@ https://a3c4ecbd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3
 #EXTINF:-1 tvg-id="anime x hidive" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2GliQcEnnp4pGTdSkHwVBMvwLoWLP5D2bA&amp;amp;s" group-title="",ANIME X HIDIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://ec48e468.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQU5JTUV4SElESVZFX0hMUw/playlist.m3u8
-
-#EXTINF:-1 tvg-id="cbeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/2560px-CBeebies.svg.png" group-title="",CBEEBIES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
 
 #EXTINF:-1 tvg-id="cartoon network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="",CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -280,13 +280,6 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88884640/hls/master.m3u8?ads._fw_app
 
 #EXTINF:-1 tvg-id="XU580950" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU580950/18091690681766852-9105170490570505-Naruto__SC_logo_color.png" group-title="",Naruto
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88884645/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=tclnaruto&ads.channelId=88884645&ads.channelName=naruto_us&ads.csid=tcl2_us_tclnaruto_ssai&ads.genre=Anime&ads.xumo_channelId=88884645&ads.xumo_channelName=TCLNaruto&ads.xumo_contentId=4400&ads.xumo_contentName=TCLNaruto&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=4400&ads.xumo_providerName=TCLNaruto&ads.xumo_streamId=88884645&declaredCC1Language=en&includeAssetTags=true
-
-
-
-#EXTINF:-1 tvg-id="3226613" tvg-name="WC2026: BBC 1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="",WC2026: BBC 1
-http://limited-name.com:80/live/Life12345/Life12345/3226613.ts
-#EXTINF:-1 tvg-id="3226614" tvg-name="WC2026: BBC 2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="",WC2026: BBC 2
-http://limited-name.com:80/live/Life12345/Life12345/3226614.ts
 
 #EXTINF:-1 channel-id="c938a72f44eca56206b4b585ab01cad5" tvg-id="c938a72f44eca56206b4b585ab01cad5" tvg-chno="198" tvg-name="Tennis+" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c938a72f44eca56206b4b585ab01cad5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763502607268_MR-25-027Tennis_Plus_Roku_HUD_260x147px.png" group-title="",Tennis+
 https://jmp2.uk/rok-c938a72f44eca56206b4b585ab01cad5.m3u8
@@ -332,6 +325,9 @@ http://limited-name.com:80/live/Life12345/Life12345/395217.ts
 
 #EXTINF:-1 channel-id="5976983fa00953dab911a0ebea932943" tvg-id="5976983fa00953dab911a0ebea932943" tvg-chno="264" tvg-name="DraftKings" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5976983fa00953dab911a0ebea932943/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694201368177_Roku_DKN_HUD_Logo_Centered.png" group-title="",DraftKings
 https://jmp2.uk/rok-5976983fa00953dab911a0ebea932943.m3u8
+
+#EXTINF:-1 tvg-id="317107" tvg-name="F1 Channel" group-title="",F1 Channel
+http://1xtr.icu:8080/live/isd72@yahoo.com/AHPtwhHT6Vz/317107.ts
 
 #EXTINF:-1 tvg-id="3157539" tvg-name="USA HBO Boxing" group-title="",HBO Boxing
 http://limited-name.com:80/live/Life12345/Life12345/3157539.ts
@@ -394,8 +390,6 @@ http://limited-name.com:80/live/Life12345/Life12345/2902800.ts
 
 #EXTINF:-1 tvg-id="236253" tvg-name="Fast And Furious" tvg-logo="https://i.imgur.com/J2UdX3Z.png" group-title="",Fast And Furious
 http://bgdc.live:25461/live/rodneyb5777/5777/236253.ts
-
-
 
 #EXTINF:-1 tvg-id="storage wars" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/c18454e7-5754-4daa-883c-f947355793cd/compose?format=webp" group-title="",STORAGE WARS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -510,7 +504,6 @@ http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1625.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://live-manifest.production-public.tubi.io/live/2a18fa03-db06-4f39-96c7-1751a3857698/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="dazn ringside" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/dazn_ringside_black.png" group-title="",DAZN RINGSIDE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://live-manifest.production-public.tubi.io/live/c92d028f-fd29-4925-9c4d-271bfe4262ec/playlist.m3u8
@@ -519,7 +512,6 @@ https://live-manifest.production-public.tubi.io/live/c92d028f-fd29-4925-9c4d-271
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="billiard tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk8KeDbydjy8Jip58oVzSZVrAo0PG9wOBMBt1MFH5L1imI7kGnB7Df_SQv&amp;amp;s=10" group-title="",BILLIARD TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
@@ -527,9 +519,6 @@ https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
 #EXTINF:-1 tvg-id="tap sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="",TAP SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="fox 11 los angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Fts-los-angeles-a.svg" group-title="",FOX 11 LOS ANGELES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -581,14 +570,11 @@ https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SpectrumSportsNetLADodgers.us" tvg-logo="" tvg-name="USA: SPORTSNET LA DODGERS" group-title="",USA: SPORTSNET LA DODGERS
-http://bgdc.live:25461/live/rodneyb5777/5777/99227.ts
+#EXTINF:-1 tvg-id="spectrum.sportsnet.la.us" tvg-name="US Spectrum SportsNet Lakers (FHD) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="",US Spectrum SportsNet Lakers (FHD) 
+http://1xtr.icu:8080/live/isd72@yahoo.com/AHPtwhHT6Vz/21842.ts
 
-#EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-logo="" tvg-name="USA: SPORTSNET LA LAKERS" group-title="",USA: SPORTSNET LA LAKERS
-http://limited-name.com:80/live/Life12345/Life12345/397081.ts
-
-
-
+#EXTINF:-1 tvg-id="spectrum.sportsnet.us" tvg-name="US Spectrum SportsNet LA Dodgers (HD) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="",US Spectrum SportsNet LA Dodgers (HD) 
+http://1xtr.icu:8080/live/isd72@yahoo.com/AHPtwhHT6Vz/31636.ts
 
 #EXTINF:-1 tvg-id="no reservations" tvg-logo="https://image.tmdb.org/t/p/original/plqxH48TnvJUVX7PGf91YynOdfc.png" group-title="",No Reservations
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
