@@ -240,11 +240,20 @@ https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/o
 #KODIPROP:inputstream.adaptive.license_key=df9071d1a149fe61eef6e6b4c4922a12:56c69aae13a844b5a6b3820239e22deb
 https://sr-live-weigel1.akamaized.net/out/v1/48a208050eed4a9785e9d1a4a3f2e4f0/index.mpd
 
-#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="NICKTOONS" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/02/nick-toons.png" group-title="",NICKTOONS
-http://http://bgdc.live:25461/live/rodneyb5777/5777/620.ts
+#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="USA Baby First LHD" tvg-logo="http://172.110.220.61:80/images/c7d550d5f7b41c7182bef7c9660d199d.png" group-title="",USA Baby First LHD
+http://limited-name.com:80/live/Life12345/Life12345/176236.ts
 
-#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="NICKELODEON" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/02/nick.png" group-title="",NICKELODEON
-http://http://bgdc.live:25461/live/rodneyb5777/5777/621.ts
+#EXTINF:-1 tvg-id="babytv.us" tvg-name="USA Baby TV" tvg-logo="http://185.193.88.130:80/images/a9b6fe6f6ee3126a4a988eeee3b95a41.png" group-title="",USA Baby TV
+http://limited-name.com:80/live/Life12345/Life12345/176237.ts
+
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="USA Boomerang*" tvg-logo="http://185.193.88.130:80/images/b6468cce7b4379ef663c90b5fd1cd12d.png" group-title="",USA Boomerang*
+http://limited-name.com:80/live/Life12345/Life12345/176238.ts
+
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="USA Nick Toon UHD" tvg-logo="http://23.227.147.172:80/images/1a02274480cf52f8810af5aed118f5c3.png" group-title="",USA Nick Toon UHD
+http://limited-name.com:80/live/Life12345/Life12345/176266.ts
+
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="USA Nickelodeon UHD" tvg-logo="http://23.227.147.172:80/images/b3919e8df8a9ac60c53d2ef1a30e20e7.png" group-title="",USA Nickelodeon UHD
+http://limited-name.com:80/live/Life12345/Life12345/176267.ts
 
 #EXTINF:-1 tvg-id="crunchyroll" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crunchyroll_Logo.svg/1842px-Crunchyroll_Logo.svg.png" group-title="",CRUNCHYROLL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
