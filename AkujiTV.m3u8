@@ -79,6 +79,24 @@ http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD
 #KODIPROP:inputstream.adaptive.license_key=e4b8d2916a534f709c187d3e5a2f6049:85d67d8b52caf380c82dc45b07f26f69
 https://ucdn.mediaquest.com.ph/bpk-tv/globaltrekker/default/index.mpd
 
+#EXTINF:-1 tvg-id="meetvtoons.us" tvg-name="METV TOONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MeTV_Toons.png" group-title="",METV TOONS
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/118647.ts
+
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="NICK JR" tvg-logo="http://primestreamstv.com/logos/Nick%20Jr%20US.png" group-title="",NICK JR
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1268.ts
+
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="NICKELODEON" tvg-logo="http://primestreamstv.com/logos/Nickelodeon.png" group-title="",NICKELODEON
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1445.ts
+
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="DISNEY CHANNEL" tvg-logo="http://primestreamstv.com/logos/Disney%20Ch.png" group-title="",DISNEY CHANNEL
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1358.ts
+
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="DISNEY JR" tvg-logo="http://primestreamstv.com/logos/Disney%20Jr%20US.png" group-title="",DISNEY JR
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1261.ts
+
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="DISNEY XD" tvg-logo="http://primestreamstv.com/logos/Disney%20XD%20US.png" group-title="",DISNEY XD
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1672.ts
+
 #EXTINF:-1 tvg-id="cg_animax_sd_new" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABB06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="",Animax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7d3f5916c844b209e158f3a7d5c2046:021fe5515e7dfb1a00a98d51abd0cb7f
@@ -124,6 +142,8 @@ http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87H
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="", Solarflix
 http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1633620334084&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B91ZY82QQ8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
+#EXTINF:-1 tvg-id="sony.us" tvg-name="SONY MOVIE CHANNEL" tvg-logo="http://primestreamstv.com/logos/Sony%20Movie%20Channel.png" group-title="",SONY MOVIE CHANNEL
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/38701.ts
 
 #EXTINF:-1 tvg-id="sony one thriller hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png" group-title="",SONY ONE THRILLER HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -223,31 +243,8 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png" group-title="" ,Disney Channel
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
-#EXTINF:-1 tvg-id="metv toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/1200px-MeTV_Toons.png" group-title="",METV TOONS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df9071d1a149fe61eef6e6b4c4922a12:56c69aae13a844b5a6b3820239e22deb
-https://sr-live-weigel1.akamaized.net/out/v1/48a208050eed4a9785e9d1a4a3f2e4f0/index.mpd
 
-#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="USA Baby First LHD" tvg-logo="http://172.110.220.61:80/images/c7d550d5f7b41c7182bef7c9660d199d.png" group-title="",USA Baby First LHD
-http://limited-name.com:80/live/Life12345/Life12345/176236.ts
-
-#EXTINF:-1 tvg-id="babytv.us" tvg-name="USA Baby TV" tvg-logo="http://185.193.88.130:80/images/a9b6fe6f6ee3126a4a988eeee3b95a41.png" group-title="",USA Baby TV
-http://limited-name.com:80/live/Life12345/Life12345/176237.ts
-
-#EXTINF:-1 tvg-id="boomerang.us" tvg-name="USA Boomerang*" tvg-logo="http://185.193.88.130:80/images/b6468cce7b4379ef663c90b5fd1cd12d.png" group-title="",USA Boomerang*
-http://limited-name.com:80/live/Life12345/Life12345/176238.ts
-
-#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="USA Nick Toon UHD" tvg-logo="http://23.227.147.172:80/images/1a02274480cf52f8810af5aed118f5c3.png" group-title="",USA Nick Toon UHD
-http://limited-name.com:80/live/Life12345/Life12345/176266.ts
-
-#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="USA Nickelodeon UHD" tvg-logo="http://23.227.147.172:80/images/b3919e8df8a9ac60c53d2ef1a30e20e7.png" group-title="",USA Nickelodeon UHD
-http://limited-name.com:80/live/Life12345/Life12345/176267.ts
 
 #EXTINF:-1 tvg-id="crunchyroll" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crunchyroll_Logo.svg/1842px-Crunchyroll_Logo.svg.png" group-title="",CRUNCHYROLL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -270,10 +267,6 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="40d73ba5be775428a377908b02033b4c" tvg-id="40d73ba5be775428a377908b02033b4c" tvg-chno="419" tvg-name="BABY SHARK TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/40d73ba5be775428a377908b02033b4c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1700073147593_Roku_BABY_SHARK_TV_Image_HUD_2_260x147.png" group-title="",BABY SHARK TV
 https://jmp2.uk/rok-40d73ba5be775428a377908b02033b4c.m3u8
 
-#EXTINF:-1 tvg-id="190868" tvg-name="CA: DISNEY JR HD" tvg-logo="EMPTYcanada/disney%20jr.png" group-title="",DISNEY JR HD
-http://bgdc.live:25461/live/rodneyb5777/5777/190868.ts
-#EXTINF:-1 tvg-id="190869" tvg-name="CA: DISNEY XD HD" tvg-logo="EMPTYcanada/disney%20dx.png" group-title="",DISNEY XD HD
-http://bgdc.live:25461/live/rodneyb5777/5777/190869.ts
 
 #EXTINF:-1 channel-id="6675c7868768aa0008d7f1c7" tvg-id="6675c7868768aa0008d7f1c7" tvg-chno="3805" tvg-name="Pokémon" tvg-logo="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png" group-title="",Pokémon
 https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
@@ -292,6 +285,9 @@ http://limited-name.com:80/live/Life12345/Life12345/2994010.ts
 
 #EXTINF:-1 tvg-id="tennischannel.us" tvg-name="Tennis Channel" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Tennis_Channel-2.png" group-title="",Tennis Channel
 http://bgdc.live:25461/live/rodneyb5777/5777/24716.ts
+
+#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-name="SKY SPORTS TENNIS" tvg-logo="https://sender.epglogos.de/302x190_w/12182.png" group-title="",SKY SPORTS TENNIS
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/120357.ts
 
 #EXTINF:-1 tvg-id="cg_spotvhd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5BC0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="",SPOTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -323,11 +319,17 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
 https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
 
-#EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV HD" tvg-logo="" group-title="",NBA TV HD
-http://limited-name.com:80/live/Life12345/Life12345/395217.ts
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="NBA TV" tvg-logo="http://primestreamstv.com/logos/NBATVHD.png" group-title="",NBA TV
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/29485.ts
 
 #EXTINF:-1 channel-id="5976983fa00953dab911a0ebea932943" tvg-id="5976983fa00953dab911a0ebea932943" tvg-chno="264" tvg-name="DraftKings" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5976983fa00953dab911a0ebea932943/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694201368177_Roku_DKN_HUD_Logo_Centered.png" group-title="",DraftKings
 https://jmp2.uk/rok-5976983fa00953dab911a0ebea932943.m3u8
+
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="http://primestreamstv.com/logos/ESPN.png" group-title="",ESPN
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1262.ts
+
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN2 (FHD)" tvg-logo="http://primestreamstv.com/logos/ESPN2.png" group-title="",ESPN2 
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/119666.ts
 
 #EXTINF:-1 tvg-id="317107" tvg-name="F1 Channel" group-title="",F1 Channel
 http://1xtr.icu:8080/live/isd72@yahoo.com/AHPtwhHT6Vz/317107.ts
@@ -503,6 +505,28 @@ http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1624.ts
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="http://primestreamstv.com/logos/TSN%205.png" group-title="",TSN 5
 http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1625.ts
 
+#EXTINF:-1 tvg-id="120373" tvg-name="TNT SPORTS 1 (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/3840px-TNT_Sports_%282023%29.svg.png" group-title="",TNT SPORTS 1 (HD)
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/120373.ts
+#EXTINF:-1 tvg-id="120375" tvg-name="TNT SPORTS 2 (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/3840px-TNT_Sports_%282023%29.svg.png" group-title="",TNT SPORTS 2 (HD)
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/120375.ts
+#EXTINF:-1 tvg-id="120377" tvg-name="TNT SPORTS 3 (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/3840px-TNT_Sports_%282023%29.svg.png" group-title="",TNT SPORTS 3 (HD)
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/120377.ts
+#EXTINF:-1 tvg-id="120379" tvg-name="TNT SPORTS 4 (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/3840px-TNT_Sports_%282023%29.svg.png" group-title="",TNT SPORTS 4 (HD)
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/120379.ts
+#EXTINF:-1 tvg-id="tntsportsultimateuhd.uk" tvg-name="TNT ULTIMATE 4K" tvg-logo="https://cdn.mos.cms.futurecdn.net/BYJU4Pz5VAzECxQdekTQMQ.jpg" group-title="",TNT ULTIMATE 4K
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/120386.ts
+
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FS1 (HD)" tvg-logo="http://primestreamstv.com/logos/FS1.png" group-title="",FS1 (HD)
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/118498.ts
+
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="FS2 (HD)" tvg-logo="http://primestreamstv.com/logos/FS2.png" group-title="",FS2 (HD)
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/38483.ts
+
+
+
+#EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="SPORTSNET L.A." tvg-logo="http://primestreamstv.com/logos/SPORTSNET%20LA.png" group-title="",SPORTSNET L.A.
+http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/59601.ts
+
 #EXTINF:-1 tvg-id="top rank classics" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6QuSpFMHgRbYq6tbh3xotXypiIoX9R_gJiA&amp;amp;s" group-title="",TOP RANK CLASSICS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://live-manifest.production-public.tubi.io/live/2a18fa03-db06-4f39-96c7-1751a3857698/playlist.m3u8
@@ -519,7 +543,7 @@ https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
 
-#EXTINF:-1 tvg-id="tap sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="",TAP SPORTS
+#EXTINF:-1 tvg-id="tap s" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_s_channel_logo.png" group-title="",TAP S
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
 
@@ -527,7 +551,7 @@ https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://live-manifest.production-public.tubi.io/live/b54c2aa5-e243-480f-9384-bbf7bcbddaf1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="l:420,cw:1080,ch:1080,q:75,w:1080/p42pbcadwsbyuwxjg7f8ke.jpeg&quot; group-title=&quot;&quot;,msg sportzone" tvg-logo="https://cdn.mos.cms.futurecdn.net/v2/t:0,l:420,cw:1080,ch:1080,q:75,w:1080/p42PbCAdwsBYUwXJg7f8Ke.jpeg" group-title="",MSG SPORTZONE
+#EXTINF:-1 tvg-id="l:420,cw:1080,ch:1080,q:75,w:1080/p42pbcadwsbyuwxjg7f8ke.jpeg&quot; group-title=&quot;&quot;,msg zone" tvg-logo="https://cdn.mos.cms.futurecdn.net/v2/t:0,l:420,cw:1080,ch:1080,q:75,w:1080/p42PbCAdwsBYUwXJg7f8Ke.jpeg" group-title="",MSG ZONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://dce277e4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTVNHU3BvcnRzWm9uZV9ITFM/playlist.m3u8
 
@@ -547,7 +571,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="premier sports rugby" tvg-logo="https://i.logos-download.com/114158/30507-06b779b3ad7ad9d22fda17389326360f.png/Premier_Sports_Rugby_Logo_2025_stacked.png" group-title="",PREMIER SPORTS RUGBY
+#EXTINF:-1 tvg-id="premier s rugby" tvg-logo="https://i.logos-download.com/114158/30507-06b779b3ad7ad9d22fda17389326360f.png/Premier_s_Rugby_Logo_2025_stacked.png" group-title="",PREMIER S RUGBY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4751472d3ac45e95e44b5e75480e53de:5f989e3de354630ec7973980f129ed01
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd
