@@ -522,7 +522,20 @@ http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/118498.ts
 #EXTINF:-1 tvg-id="foxsports2.us" tvg-name="FS2 (HD)" tvg-logo="http://primestreamstv.com/logos/FS2.png" group-title="",FS2 (HD)
 http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/38483.ts
 
+#EXTINF:-1 tvg-id="US Open Practice Courts" group-logo="https://www.usopen.org/assets/images/misc/practice-courts-slate_1920x1080.jpg" tvg-logo="https://www.usopen.org/assets/images/header/usopen-header-logo.svg" group-title="",Practice Court 1
+https://live.usopen.org/hls/live/2031651/usopen/pc1.m3u8
 
+#EXTINF:-1 tvg-id="US Open Practice Courts" group-logo="https://www.usopen.org/assets/images/misc/practice-courts-slate_1920x1080.jpg" tvg-logo="https://www.usopen.org/assets/images/header/usopen-header-logo.svg" group-title="",Practice Court 2
+https://live.usopen.org/hls/live/2031787/usopen/pc2.m3u8
+
+#EXTINF:-1 tvg-id="US Open Practice Courts" group-logo="https://www.usopen.org/assets/images/misc/practice-courts-slate_1920x1080.jpg" tvg-logo="https://www.usopen.org/assets/images/header/usopen-header-logo.svg" group-title="",Practice Court 3
+https://live.usopen.org/hls/live/2031788/usopen/pc3.m3u8
+
+#EXTINF:-1 tvg-id="US Open Practice Courts" group-logo="https://www.usopen.org/assets/images/misc/practice-courts-slate_1920x1080.jpg" tvg-logo="https://www.usopen.org/assets/images/header/usopen-header-logo.svg" group-title="",Practice Court 4
+https://live.usopen.org/hls/live/2031789/usopen/pc4.m3u8
+
+#EXTINF:-1 tvg-id="US Open Practice Courts" group-logo="https://www.usopen.org/assets/images/misc/practice-courts-slate_1920x1080.jpg" tvg-logo="https://www.usopen.org/assets/images/header/usopen-header-logo.svg" group-title="",Practice Court 5
+https://live.usopen.org/hls/live/2031791/usopen/pc5.m3u8
 
 #EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="SPORTSNET L.A." tvg-logo="http://primestreamstv.com/logos/SPORTSNET%20LA.png" group-title="",SPORTSNET L.A.
 http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/59601.ts
