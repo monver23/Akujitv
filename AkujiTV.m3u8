@@ -510,16 +510,21 @@ http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1624.ts
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="http://primestreamstv.com/logos/TSN%205.png" group-title="",TSN 5
 http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1625.ts
 
-#EXTINF:-1 tvg-id="120373" tvg-name="TNT SPORTS 1 (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/3840px-TNT_Sports_%282023%29.svg.png" group-title="",TNT SPORTS 1 (HD)
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/120373.ts
-#EXTINF:-1 tvg-id="120375" tvg-name="TNT SPORTS 2 (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/3840px-TNT_Sports_%282023%29.svg.png" group-title="",TNT SPORTS 2 (HD)
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/120375.ts
-#EXTINF:-1 tvg-id="120377" tvg-name="TNT SPORTS 3 (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/3840px-TNT_Sports_%282023%29.svg.png" group-title="",TNT SPORTS 3 (HD)
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/120377.ts
-#EXTINF:-1 tvg-id="120379" tvg-name="TNT SPORTS 4 (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/3840px-TNT_Sports_%282023%29.svg.png" group-title="",TNT SPORTS 4 (HD)
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/120379.ts
-#EXTINF:-1 tvg-id="tntsportsultimateuhd.uk" tvg-name="TNT ULTIMATE 4K" tvg-logo="https://cdn.mos.cms.futurecdn.net/BYJU4Pz5VAzECxQdekTQMQ.jpg" group-title="",TNT ULTIMATE 4K
-http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/120386.ts
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="|UK| TNT SPORTS 1 ᵁᴴᴰ" tvg-logo="http://57.128.182.77:8080/UK/TNTSPORTS.png" group-title="",|UK| TNT SPORTS 1 ᵁᴴᴰ
+http://4kgood.org:80/live/jtuzdknqgi/0jb3f673p3/309615.ts
+
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="|UK| TNT SPORTS 2 ᵁᴴᴰ" tvg-logo="http://57.128.182.77:8080/UK/TNTSPORTS.png" group-title="",|UK| TNT SPORTS 2 ᵁᴴᴰ
+http://4kgood.org:80/live/jtuzdknqgi/0jb3f673p3/309616.ts
+
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="|UK| TNT SPORTS 3 ᵁᴴᴰ" tvg-logo="http://57.128.182.77:8080/UK/TNTSPORTS.png" group-title="",|UK| TNT SPORTS 3 ᵁᴴᴰ
+http://4kgood.org:80/live/jtuzdknqgi/0jb3f673p3/309617.ts
+
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="|UK| TNT SPORTS 4 ᵁᴴᴰ" tvg-logo="http://57.128.182.77:8080/UK/TNTSPORTS.png" group-title="",|UK| TNT SPORTS 4 ᵁᴴᴰ
+http://4kgood.org:80/live/jtuzdknqgi/0jb3f673p3/309618.ts
+
+#EXTINF:-1 tvg-id="522060" tvg-name="|UK| TNT Sport Ultimate ULTRA ᵁᴴᴰ" group-title="",|UK| TNT Sport Ultimate ULTRA ᵁᴴᴰ
+http://4kgood.org:80/live/jtuzdknqgi/0jb3f673p3/522060.ts
+
 
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FS1 (HD)" tvg-logo="http://primestreamstv.com/logos/FS1.png" group-title="",FS1 (HD)
 http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/118498.ts
