@@ -160,6 +160,11 @@ https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/krh
 #KODIPROP:inputstream.adaptive.license_key=5894eba80a8aee9fab4a925183185d99:fe50655307fbdc2c4989c195423ccecf
 https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zbz23awyhg/out/v1/f5666ad30e36413098a56bb8fd97c46a/cenc.mpd
 
+#EXTINF:-1 tvg-id="24083" tvg-name="US: Cinemax Action FHD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/cinemax.png" group-title="",Cinemax Action FHD
+http://myultratv.com:8080/live/935917692tv/a4gqcz4/24083.ts
+
+#EXTINF:-1 tvg-id="24085" tvg-name="US: Cinemax Action 2 HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/cinemax.png" group-title="",Cinemax Action 2 HD
+http://myultratv.com:8080/live/935917692tv/a4gqcz4/24085.ts
 
 #EXTINF:-1 tvg-id="mnx hd" tvg-logo="https://multireach.in/wp-content/uploads/2020/11/mnxhd.jpg" group-title="",MNX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -180,6 +185,12 @@ http://136.239.158.10:6610/001/2/ch00000090990000001065/sec-f2-v1-a1.m3u8?JITPDR
 #KODIPROP:inputstream.adaptive.license_key={"07b138f30ad3441ca5a2f476e550af25":"826ee4deef4b45cfafd5f79a591b15c6"}
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
+#EXTINF:-1 tvg-id="24000" tvg-name="US: HBO Signature" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/hbosignature.png" group-title="",HBO Signature
+http://myultratv.com:8080/live/935917692tv/a4gqcz4/24000.ts
+
+#EXTINF:-1 tvg-id="24006" tvg-name="US: HBO 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_lam.png" group-title="",HBO 2 FHD
+http://myultratv.com:8080/live/935917692tv/a4gqcz4/24006.ts
+
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",HBO Asia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -194,6 +205,12 @@ http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/38701.ts
 
 #EXTINF:-1 tvg-id="hbo2.ca" tvg-name="MovieSphere by Lionsgate" tvg-logo="http://onlytimewilltell.xyz:2086/images/9cfbb43c55168f41cdcdb3f7317aefc4.png" group-title="",MovieSphere by Lionsgate
 http://bgdc.live:25461/live/rodneyb5777/5777/13441.ts
+
+#EXTINF:-1 tvg-id="12064" tvg-name="US_HD: RetroPlex HD_1080P" group-title="←",RetroPlex
+http://myultratv.com:8080/live/935917692tv/a4gqcz4/12064.ts
+
+#EXTINF:-1 tvg-id="254772" tvg-name="Sportsnet 360 HD (ᴄᴀ)" group-title="", Sportsnet 360 HD
+http://myultratv.com:8080/live/935917692tv/a4gqcz4/254772.ts
 
 #EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="SKY COMEDY" tvg-logo="https://cantseeus.com/wp-content/uploads/2024/07/SCComedy.png" group-title="",SKY COMEDY
 http://bgdc.live:25461/live/rodneyb5777/5777/14926.ts
@@ -304,6 +321,11 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_spotv2hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=91e4c6725a834d198f602c7b9e3a5148:4185d260443198690be03e294fdc1240
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_ps_hd1/default/index.mpd
 
+#EXTINF:-1 tvg-id="premiersports2hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A899C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="",Premier Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72e4b9c13f864a52a9178d6c0e5b2394:9390c1edae5ecf680c168daf44bf6a03
+https://ucdn.mediaquest.com.ph/bpk-tv/premiersports2hd/default/index.mpd
+
 #EXTINF:-1 tvg-id="cg_uaap_cplay_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A869A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="",UAAP Varsity Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6c9f4218d734a059e165c3d7a2f8049:948aa5c0d0c15c70efb9257f5b75c379
@@ -347,6 +369,9 @@ http://bgdc.live:25461/live/rodneyb5777/5777/14170.ts
 
 #EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="http://primestreamstv.com/logos/Showtime%202%20East.png" group-title="",SHOWTIME 2
 http://bgdc.live:25461/live/rodneyb5777/5777/14169.ts
+
+#EXTINF:-1 tvg-id="33352" tvg-name="USA**:BARCA TV" group-title="",BARCA TV
+http://myultratv.com:8080/live/935917692tv/a4gqcz4/33352.ts
 
 #EXTINF:-1 tvg-id="AM816556" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/AM816556/17488691219420701-Dog_the_Bounty_Hunter_SC_logo_color.jpg" group-title="",Dog The Bounty Hunter
 https://amg00276-amg00276c11-tclideo-na-3987.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-tclideona/playlist.m3u8?ap=1&app_bundle=REPLACE_ME&app_name=REPLACE_ME&app_store_url=REPLACE_ME&brand_name=TCL&cb=1785351665&channel_name=Dog+The+Bounty+Hunter&coppa=0&device%5Bdid%5D=REPLACE_ME&device%5Bdnt%5D=REPLACE_ME&device_make=REPLACE_ME&device_model=REPLACE_ME&gdpr=0&gdpr_consent=0&gender=REPLACE_ME&genre=REPLACE_ME&ic=IAB1-7&ifa_type=REPLACEME&mute=0&network_name=TCL&placement=1&schain=REPLACE_ME&skip=0&url=REPLACE_ME&us_privacy=1YN-
@@ -398,8 +423,6 @@ http://limited-name.com:80/live/Life12345/Life12345/2902814.ts
 #EXTINF:-1 tvg-id="2902800" tvg-name="Hunger Games" tvg-logo="https://i.imgur.com/3CgRtBW.png" group-title="",Hunger Games
 http://limited-name.com:80/live/Life12345/Life12345/2902800.ts
 
-#EXTINF:-1 tvg-id="236253" tvg-name="Fast And Furious" tvg-logo="https://i.imgur.com/J2UdX3Z.png" group-title="",Fast And Furious
-http://bgdc.live:25461/live/rodneyb5777/5777/236253.ts
 
 #EXTINF:-1 tvg-id="storage wars" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/c18454e7-5754-4daa-883c-f947355793cd/compose?format=webp" group-title="",STORAGE WARS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -441,25 +464,26 @@ https://live-manifest.production-public.tubi.io/live/dd6d627f-f0f8-48bb-b627-7f7
 #EXTINF:-1 tvg-id="118638" tvg-name="PICKLEBALL TV" tvg-logo="https://pickleballtv.com/wp-content/uploads/2023/10/cropped-pbtv-300x71-1.png" group-title="",PICKLEBALL TV
 http://primestreams.tv:826/live/Chine611/DEht5fmfT2/118638.ts
 
-#EXTINF:-1 tvg-id="bien sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="",BIEN SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="|US| BEIN SPORTS 1" tvg-logo="http://57.128.182.77:8080/0tv_logo/400.png" group-title="",BEIN SPORTS 1
+http://4kgood.org:80/live/jtuzdknqgi/0jb3f673p3/280688.ts
 
-#EXTINF:-1 tvg-id="bien sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="",BIEN SPORTS 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="|US| BEIN SPORTS 2" tvg-logo="http://57.128.182.77:8080/0tv_logo/400.png" group-title="",BEIN SPORTS 2
+http://4kgood.org:80/live/jtuzdknqgi/0jb3f673p3/280694.ts
 
-#EXTINF:-1 tvg-id="bien sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" group-title="",BIEN SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="|US| BEIN SPORTS 4" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="",BEIN SPORTS 4
+http://4kgood.org:80/live/jtuzdknqgi/0jb3f673p3/280689.ts
 
-#EXTINF:-1 tvg-id="bien sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" group-title="",BIEN SPORTS 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="|US| BEIN SPORTS 5" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="",BEIN SPORTS 5
+http://4kgood.org:80/live/jtuzdknqgi/0jb3f673p3/280690.ts
+
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="|US| BEIN SPORTS 6" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="",BEIN SPORTS 6
+http://4kgood.org:80/live/jtuzdknqgi/0jb3f673p3/280691.ts
+
+#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="|US| BEIN SPORTS 7" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="",BEIN SPORTS 7
+http://4kgood.org:80/live/jtuzdknqgi/0jb3f673p3/280692.ts
+
+#EXTINF:-1 tvg-id="beinsports8.us" tvg-name="|US| BEIN SPORTS 8" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="",EIN SPORTS 8
+http://4kgood.org:80/live/jtuzdknqgi/0jb3f673p3/280693.ts
 
 #EXTINF:-1 tvg-id="beinsports.us" tvg-name="USA BeIN SPORTS HD" tvg-logo="http://185.193.88.130:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="",USA BeIN SPORTS HD
 http://limited-name.com:80/live/Life12345/Life12345/220512.ts
@@ -510,20 +534,27 @@ http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1624.ts
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="http://primestreamstv.com/logos/TSN%205.png" group-title="",TSN 5
 http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1625.ts
 
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="|UK| TNT SPORTS 1 ᵁᴴᴰ" tvg-logo="http://57.128.182.77:8080/UK/TNTSPORTS.png" group-title="",|UK| TNT SPORTS 1 ᵁᴴᴰ
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="|UK| TNT SPORTS 1 ᵁᴴᴰ" tvg-logo="http://57.128.182.77:8080/UK/TNTSPORTS.png" group-title="",TNT SPORTS 1 ᵁᴴᴰ
 http://4kgood.org:80/live/jtuzdknqgi/0jb3f673p3/309615.ts
 
-#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="|UK| TNT SPORTS 2 ᵁᴴᴰ" tvg-logo="http://57.128.182.77:8080/UK/TNTSPORTS.png" group-title="",|UK| TNT SPORTS 2 ᵁᴴᴰ
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="|UK| TNT SPORTS 2 ᵁᴴᴰ" tvg-logo="http://57.128.182.77:8080/UK/TNTSPORTS.png" group-title="",TNT SPORTS 2 ᵁᴴᴰ
 http://4kgood.org:80/live/jtuzdknqgi/0jb3f673p3/309616.ts
 
-#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="|UK| TNT SPORTS 3 ᵁᴴᴰ" tvg-logo="http://57.128.182.77:8080/UK/TNTSPORTS.png" group-title="",|UK| TNT SPORTS 3 ᵁᴴᴰ
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="|UK| TNT SPORTS 3 ᵁᴴᴰ" tvg-logo="http://57.128.182.77:8080/UK/TNTSPORTS.png" group-title="",TNT SPORTS 3 ᵁᴴᴰ
 http://4kgood.org:80/live/jtuzdknqgi/0jb3f673p3/309617.ts
 
-#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="|UK| TNT SPORTS 4 ᵁᴴᴰ" tvg-logo="http://57.128.182.77:8080/UK/TNTSPORTS.png" group-title="",|UK| TNT SPORTS 4 ᵁᴴᴰ
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="|UK| TNT SPORTS 4 ᵁᴴᴰ" tvg-logo="http://57.128.182.77:8080/UK/TNTSPORTS.png" group-title="",TNT SPORTS 4 ᵁᴴᴰ
 http://4kgood.org:80/live/jtuzdknqgi/0jb3f673p3/309618.ts
 
-#EXTINF:-1 tvg-id="522060" tvg-name="|UK| TNT Sport Ultimate ULTRA ᵁᴴᴰ" group-title="",|UK| TNT Sport Ultimate ULTRA ᵁᴴᴰ
+#EXTINF:-1 tvg-id="522060" tvg-name="|UK| TNT Sport Ultimate ULTRA ᵁᴴᴰ" group-title="",TNT Sport Ultimate ULTRA ᵁᴴᴰ
 http://4kgood.org:80/live/jtuzdknqgi/0jb3f673p3/522060.ts
+
+#EXTINF:-1 tvg-id="24026" tvg-name="US: Fox Sports 1 FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" group-title="",Fox Sports 1 FHD
+http://myultratv.com:8080/live/935917692tv/a4gqcz4/24026.ts
+
+#EXTINF:-1 tvg-id="24024" tvg-name="US: Fox Sports 2 FHD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSports2.png" group-title="",Fox Sports 2 FHD
+http://myultratv.com:8080/live/935917692tv/a4gqcz4/24024.ts
+
 
 
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FS1 (HD)" tvg-logo="http://primestreamstv.com/logos/FS1.png" group-title="",FS1 (HD)
@@ -531,21 +562,6 @@ http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/118498.ts
 
 #EXTINF:-1 tvg-id="foxsports2.us" tvg-name="FS2 (HD)" tvg-logo="http://primestreamstv.com/logos/FS2.png" group-title="",FS2 (HD)
 http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/38483.ts
-
-#EXTINF:-1 tvg-id="US Open Practice Courts" group-logo="https://www.usopen.org/assets/images/misc/practice-courts-slate_1920x1080.jpg" tvg-logo="https://www.usopen.org/assets/images/header/usopen-header-logo.svg" group-title="",Practice Court 1
-https://live.usopen.org/hls/live/2031651/usopen/pc1.m3u8
-
-#EXTINF:-1 tvg-id="US Open Practice Courts" group-logo="https://www.usopen.org/assets/images/misc/practice-courts-slate_1920x1080.jpg" tvg-logo="https://www.usopen.org/assets/images/header/usopen-header-logo.svg" group-title="",Practice Court 2
-https://live.usopen.org/hls/live/2031787/usopen/pc2.m3u8
-
-#EXTINF:-1 tvg-id="US Open Practice Courts" group-logo="https://www.usopen.org/assets/images/misc/practice-courts-slate_1920x1080.jpg" tvg-logo="https://www.usopen.org/assets/images/header/usopen-header-logo.svg" group-title="",Practice Court 3
-https://live.usopen.org/hls/live/2031788/usopen/pc3.m3u8
-
-#EXTINF:-1 tvg-id="US Open Practice Courts" group-logo="https://www.usopen.org/assets/images/misc/practice-courts-slate_1920x1080.jpg" tvg-logo="https://www.usopen.org/assets/images/header/usopen-header-logo.svg" group-title="",Practice Court 4
-https://live.usopen.org/hls/live/2031789/usopen/pc4.m3u8
-
-#EXTINF:-1 tvg-id="US Open Practice Courts" group-logo="https://www.usopen.org/assets/images/misc/practice-courts-slate_1920x1080.jpg" tvg-logo="https://www.usopen.org/assets/images/header/usopen-header-logo.svg" group-title="",Practice Court 5
-https://live.usopen.org/hls/live/2031791/usopen/pc5.m3u8
 
 #EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="SPORTSNET L.A." tvg-logo="http://primestreamstv.com/logos/SPORTSNET%20LA.png" group-title="",SPORTSNET L.A.
 http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/59601.ts
@@ -686,8 +702,5 @@ http://bgdc.live:25461/live/rodneyb5777/5777/190855.ts
 https://jmp2.uk/rok-f17c82792f7cab26596e1a84ebc82a8b.m3u
 
 
-#EXTINF:-1 tvg-id="premiersports2hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A899C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="",Premier Sports 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72e4b9c13f864a52a9178d6c0e5b2394:9390c1edae5ecf680c168daf44bf6a03
-https://ucdn.mediaquest.com.ph/bpk-tv/premiersports2hd/default/index.mpd
+
 
